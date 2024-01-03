@@ -8,6 +8,8 @@ packages = [{include = "spotify_client"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
+httpx = "^0.26.0"
+python-dotenv = "^1.0.0"
 
 
 [build-system]
