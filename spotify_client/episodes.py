@@ -59,17 +59,50 @@ def daily_gospel_exegesis_matthew():
 
     print(len(file_list))
 
-    episodes = [] # an empty list to store the data frames
+    episodes = []
     for file in file_list:
         with open(file, "r") as f:
             episodes.append(json.load(f))
 
     df = pd.json_normalize(episodes)
-    df = df[["Matt" in x for x in df["name"]]]
-    df = df.sort_values(by="name")
-    print(df.name.to_string(index=False))
+    df["book_chapter_verse"] = df["name"].apply(daily_gospel_exegesis_book_chapter_verse_from_name)
+    df["book"] = df["book_chapter_verse"].apply(daily_gospel_exegesis_book_from_book_chapter_verse)
+    df["chapter"] = df["book_chapter_verse"].apply(daily_gospel_exegesis_chapter_from_book_chapter_verse)
+    df = df[["Matt" in x for x in df["book"]]]
+    df = df.sort_values(by=["book", "chapter"])
+            
+    # view the updated DataFrame
+    print(df.shape[0])
+    print(df[["book", "chapter"]].head(10)) 
+    df.to_csv("daily_gospel_exegesis.csv")    
 
+def daily_gospel_exegesis_book_from_book_chapter_verse(book_chapter_verse):
+    if ":" not in book_chapter_verse:
+        return book_chapter_verse
+    array = book_chapter_verse.split(" ")
+    return array[0]
 
+def daily_gospel_exegesis_chapter_from_book_chapter_verse(book_chapter_verse):
+    if ":" not in book_chapter_verse:
+        return None
+    array = book_chapter_verse.split(" ")
+    size = len(array)
+    if size < 2:
+        return None
+    elif size >= 2:
+        chapter_verse_array = array[1].split(":")
+        print(f"chapter_verse_array: {chapter_verse_array} | {book_chapter_verse}")
+        return int(chapter_verse_array[0])
+
+def daily_gospel_exegesis_book_chapter_verse_from_name(name):
+    array = name.split(" - ")
+    size = len(array)
+    if size < 2:
+        return array[0]
+    elif size == 2:
+        return array[1]
+    elif size > 2:
+        return array[1] + "-" + array[2]
 
 def main():
     # download_all_episode_metadata(DAILY_GOSPEL_EXEGESIS)
