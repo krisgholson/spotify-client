@@ -1,15 +1,21 @@
+import glob
 import httpx
 import json
 import os
+import pandas as pd
 import time
 from dotenv import load_dotenv
 
+pd.set_option("display.max_columns", None)
 load_dotenv() 
 
 DATA_DIR = os.getenv("DATA_DIR")
 SPOTIFY_API_URL = os.getenv("SPOTIFY_API_URL")
 SPOTIFY_ACCESS_TOKEN = os.getenv("SPOTIFY_ACCESS_TOKEN")
 SPOTIFY_HEADERS = {"authorization": f"Bearer {SPOTIFY_ACCESS_TOKEN}"}
+
+DAILY_GOSPEL_EXEGESIS = os.getenv("DAILY_GOSPEL_EXEGESIS")
+BIBLE_IN_A_YEAR = os.getenv("BIBLE_IN_A_YEAR")
 
 def get_all(url, items=[]):
     print(url)
@@ -45,10 +51,28 @@ def download_all_episode_metadata(show_id):
         with open(f"{show_dir}/{id}.json", "w") as f:
             json.dump(e, f, indent=4)
 
+def episode_report(show_id):
+    
+    show_dir = f"{DATA_DIR}/{show_id}"
+    json_pattern = os.path.join(show_dir, "*.json")
+    file_list = glob.glob(json_pattern)
+
+    print(len(file_list))
+
+    episodes = [] # an empty list to store the data frames
+    for file in file_list:
+        with open(file, "r") as f:
+            episodes.append(json.load(f))
+
+    df = pd.json_normalize(episodes)
+    df = df.sort_values(by="release_date")
+    print(df.release_date.to_string(index=False))
+
+
+
 def main():
-    daily_gospel_exegesis = "753FVUsio4Y6GjFvbGpvF0"
-    bible_in_a_year = "4Pppt42NPK2XzKwNIoW7BR"
-    download_all_episode_metadata(bible_in_a_year)
+    # download_all_episode_metadata(DAILY_GOSPEL_EXEGESIS)
+    episode_report(BIBLE_IN_A_YEAR)
 
 if __name__ == '__main__':
     main()
