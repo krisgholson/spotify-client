@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4q1gHyRAaMCkwD4QLBa7v4/clip_301800_351900.mp3",
+    "description": "Fr. Mike reveals Solomon's plan of leadership, and how he is aiming to unite the people. He also foreshadows the importance of the temple as a place where Israel can go to worship God as one people. Today's readings are 1 Kings 4, 2 Chronicles 6, and Psalm 65. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1342145,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4oSiUJi5kd8Gg1w3Nn4jYZ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4oSiUJi5kd8Gg1w3Nn4jYZ",
+    "html_description": "<p>Fr. Mike reveals Solomon&#39;s plan of leadership, and how he is aiming to unite the people. He also foreshadows the importance of the temple as a place where Israel can go to worship God as one people. Today&#39;s readings are 1 Kings 4, 2 Chronicles 6, and Psalm 65.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4oSiUJi5kd8Gg1w3Nn4jYZ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 146: The Universal Church (2023)",
+    "release_date": "2023-05-26",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4oSiUJi5kd8Gg1w3Nn4jYZ"
+}

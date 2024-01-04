@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7scMnVfbvyn5cK4OkAo0Eo/clip_193600_266900.mp3",
+    "description": "Fr. Mike explains why Joel would say that there are certain times for war, even within God's plan. In a broken world, we are sometimes going to be called to fight the brokenness around us, but we must believe that God is allowing this not because he likes war, but because something better will come in its place. Today's readings are Isaiah 16-17, Joel 3, and Proverbs 10:21-24. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1139644,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4mmaunQi73bnWurLgW77fb"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4mmaunQi73bnWurLgW77fb",
+    "html_description": "<p>Fr. Mike explains why Joel would say that there are certain times for war, even within God&#39;s plan. In a broken world, we are sometimes going to be called to fight the brokenness around us, but we must believe that God is allowing this not because he likes war, but because something better will come in its place. Today&#39;s readings are Isaiah 16-17, Joel 3, and Proverbs 10:21-24.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4mmaunQi73bnWurLgW77fb",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 199: Times for War (2023)",
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4mmaunQi73bnWurLgW77fb"
+}

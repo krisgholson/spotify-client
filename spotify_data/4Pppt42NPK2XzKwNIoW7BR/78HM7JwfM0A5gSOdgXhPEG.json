@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2rV3cUaputq4sFd24Pj5CE/clip_1058300_1107200.mp3",
+    "description": "Fr. Mike uses the readings today to ask the question, how can we love the Lord joyfully, and with our whole hearts? In scripture today we see David succeed in this, while his son Solomon is divided in his love of God. Fr. Mike also explains why David was seeking his own power when taking the census in 2 Samuel, and how he fell subject to the evil one's tempting. Today's readings are 2 Samuel 24, 1 Chronicles 29, and Psalm 30. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1144816,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/78HM7JwfM0A5gSOdgXhPEG"
+    },
+    "href": "https://api.spotify.com/v1/episodes/78HM7JwfM0A5gSOdgXhPEG",
+    "html_description": "<p>Fr. Mike uses the readings today to ask the question, how can we love the Lord joyfully, and with our whole hearts? In scripture today we see David succeed in this, while his son Solomon is divided in his love of God. Fr. Mike also explains why David was seeking his own power when taking the census in 2 Samuel, and how he fell subject to the evil one&#39;s tempting. Today&#39;s readings are 2 Samuel 24, 1 Chronicles 29, and Psalm 30.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "78HM7JwfM0A5gSOdgXhPEG",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 142: Whole and Joyful Hearts (2022)",
+    "release_date": "2022-05-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:78HM7JwfM0A5gSOdgXhPEG"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6fJfimeVD6C31lfxIKjG5o/clip_843200_900800.mp3",
+    "description": "Fr. Mike touches on the sins of David, and how we can see ourselves in these fallen characters in scripture. God desires a relationship with us free from sin, and although it may be painful, he brings these things into the light not out of anger, but out of love. Today's readings are 2 Samuel 12, 1 Chronicles 16, and Psalm 51. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1142831,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0Dmwov3nSsJ7zCfNPPZsOI"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0Dmwov3nSsJ7zCfNPPZsOI",
+    "html_description": "<p>Fr. Mike touches on the sins of David, and how we can see ourselves in these fallen characters in scripture. God desires a relationship with us free from sin, and although it may be painful, he brings these things into the light not out of anger, but out of love. Today&#39;s readings are 2 Samuel 12, 1 Chronicles 16, and Psalm 51.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0Dmwov3nSsJ7zCfNPPZsOI",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 130: Nathan Condemns David (2022)",
+    "release_date": "2022-05-10",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0Dmwov3nSsJ7zCfNPPZsOI"
+}

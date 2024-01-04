@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0beD4LVua7LYKQhXDUGiMR/clip_1213100_1269100.mp3",
+    "description": "As we begin to read the first book of Samuel, Fr. Mike highlights the miraculous birth of Samuel and how Hannah's deep longing for a son never became an idol in her heart. Today's readings are 1 Samuel 1-2 and Psalm 149. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1495013,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0Pzw43iKo3MOuUplB2aqJM"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0Pzw43iKo3MOuUplB2aqJM",
+    "html_description": "<p>As we begin to read the first book of Samuel, Fr. Mike highlights the miraculous birth of Samuel and how Hannah&#39;s deep longing for a son never became an idol in her heart. Today&#39;s readings are 1 Samuel 1-2 and Psalm 149.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0Pzw43iKo3MOuUplB2aqJM",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 96: Hannah's Prayer (2023)",
+    "release_date": "2023-04-06",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0Pzw43iKo3MOuUplB2aqJM"
+}

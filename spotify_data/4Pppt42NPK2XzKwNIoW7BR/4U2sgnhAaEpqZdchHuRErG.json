@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4uP5d5zOVxOhAZbHr03V23/clip_981600_1030800.mp3",
+    "description": "Fr. Mike explains the events of today's readings, breaking down Hushai's advice to Absalom, David's warning and charge of Solomon, and the theme of centralized worship. We all desire to be temples of the Holy Spirit, and we bring this prayer to God through today's episode. Today's readings are 2 Samuel 17, 1 Chronicles 22, and Psalm 36. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1091160,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4U2sgnhAaEpqZdchHuRErG"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4U2sgnhAaEpqZdchHuRErG",
+    "html_description": "<p>Fr. Mike explains the events of today&#39;s readings, breaking down Hushai&#39;s advice to Absalom, David&#39;s warning and charge of Solomon, and the theme of centralized worship. We all desire to be temples of the Holy Spirit, and we bring this prayer to God through today&#39;s episode. Today&#39;s readings are 2 Samuel 17, 1 Chronicles 22, and Psalm 36.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4U2sgnhAaEpqZdchHuRErG",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 135: The Counsel of Hushai (2023)",
+    "release_date": "2023-05-15",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4U2sgnhAaEpqZdchHuRErG"
+}

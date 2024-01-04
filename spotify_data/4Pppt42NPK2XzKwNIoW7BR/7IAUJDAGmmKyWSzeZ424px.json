@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/21P57vO2vGx7aPbSYagm6x/clip_118500_171300.mp3",
+    "description": "In today's readings of Genesis 3-4 and Psalm 104, Fr. Mike draws the connection between love and sacrifice in the story of Adam and Eve and explains the story of Cain and Abel.  For the complete reading plan, text CATHOLICBIBLE to 33-777 or visit ascensionpress.com/bibleinayear.",
+    "duration_ms": 1433338,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7IAUJDAGmmKyWSzeZ424px"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7IAUJDAGmmKyWSzeZ424px",
+    "html_description": "<p>In today&#39;s readings of Genesis 3-4 and Psalm 104, Fr. Mike draws the connection between love and sacrifice in the story of Adam and Eve and explains the story of Cain and Abel. </p><br/><p>For the complete reading plan, text CATHOLICBIBLE to 33-777 or visit ascensionpress.com/bibleinayear.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7IAUJDAGmmKyWSzeZ424px",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 2: The Fall of Adam and Eve (2023)",
+    "release_date": "2023-01-02",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7IAUJDAGmmKyWSzeZ424px"
+}

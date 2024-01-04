@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/26Ddmp5FYrvIkvsTcZX2mR/clip_1600100_1640500.mp3",
+    "description": "Today we read about Elijah's discouragement after fleeing from Jezebel, and how God tells him to \"arise and eat\" to strengthen him for the journey ahead. Fr. Mike points out how God calls us to draw strength for the journey as well, even at the end of our earthly lives. The readings are 1 Kings 19-20, 2 Chronicles 20, and Song of Solomon 6. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1682337,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2oGUVU5M9M9n7NJ9vMHdQh"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2oGUVU5M9M9n7NJ9vMHdQh",
+    "html_description": "<p>Today we read about Elijah&#39;s discouragement after fleeing from Jezebel, and how God tells him to &#34;arise and eat&#34; to strengthen him for the journey ahead. Fr. Mike points out how God calls us to draw strength for the journey as well, even at the end of our earthly lives. The readings are 1 Kings 19-20, 2 Chronicles 20, and Song of Solomon 6.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2oGUVU5M9M9n7NJ9vMHdQh",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 167: Viaticum (2023)",
+    "release_date": "2023-06-16",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2oGUVU5M9M9n7NJ9vMHdQh"
+}

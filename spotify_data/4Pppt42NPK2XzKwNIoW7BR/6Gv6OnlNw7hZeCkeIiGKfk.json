@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5uoicv7epCxqzfhIijInuS/clip_581400_626900.mp3",
+    "description": "Today, we begin the age of the church, transitioning from the Gospel of Luke to the beginning of the book of Acts. Fr. Mike draws our attention to the Ascension of Jesus and encourages us to respond to Christ\u2019s call to participate in his mission. He invites us to be part of his story and not be ashamed of the Gospel. Today\u2019s readings are Acts 1, Romans 1, and Proverbs 26:24-26. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1159993,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6Gv6OnlNw7hZeCkeIiGKfk"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6Gv6OnlNw7hZeCkeIiGKfk",
+    "html_description": "<p>Today, we begin the age of the church, transitioning from the Gospel of Luke to the beginning of the book of Acts. Fr. Mike draws our attention to the Ascension of Jesus and encourages us to respond to Christ\u2019s call to participate in his mission. He invites us to be part of his story and not be ashamed of the Gospel. Today\u2019s readings are Acts 1, Romans 1, and Proverbs 26:24-26.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6Gv6OnlNw7hZeCkeIiGKfk",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 322: The Ascension (2022)",
+    "release_date": "2022-11-18",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6Gv6OnlNw7hZeCkeIiGKfk"
+}

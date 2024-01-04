@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ouwiT3Zj1yFTuM5stNdEC/clip_644400_704800.mp3",
+    "description": "Fr. Mike continues reading from the book of Nehemiah as we read of the many attempts to prevent Nehemiah from doing the great work of God. We also see the events that lead to Esther being chosen as queen and the goodness she will bring even in the midst of a broken system.  Today\u2019s readings are Nehemiah 6-7, Esther 1-2, and Proverbs 21:1-4. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1593808,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/33jhCGb5cH2VIe3k6wwpPT"
+    },
+    "href": "https://api.spotify.com/v1/episodes/33jhCGb5cH2VIe3k6wwpPT",
+    "html_description": "<p>Fr. Mike continues reading from the book of Nehemiah as we read of the many attempts to prevent Nehemiah from doing the great work of God. We also see the events that lead to Esther being chosen as queen and the goodness she will bring even in the midst of a broken system.  Today\u2019s readings are Nehemiah 6-7, Esther 1-2, and Proverbs 21:1-4.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "33jhCGb5cH2VIe3k6wwpPT",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 275: Esther Becomes Queen (2023)",
+    "release_date": "2023-10-02",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:33jhCGb5cH2VIe3k6wwpPT"
+}

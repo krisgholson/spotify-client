@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2gFOtw4W5PCibFpKvBM9Qy/clip_311200_379100.mp3",
+    "description": "Today Fr. Mike reminds us that God created us out of love, for love.  Fr. Mike also points out where the Catholic Church draws her doctrine on the difference between mortal and venial sin, as well as what St. Paul means when he teaches that there is only \"one mediator\" between God and man. Today's readings are 1 John 4-5, 1 Timothy 1-3, and Proverbs 30: 24-28.  For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1523069,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3yBse0Yxv39QJ4dR7U81m6"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3yBse0Yxv39QJ4dR7U81m6",
+    "html_description": "<p>Today Fr. Mike reminds us that God created us out of love, for love.  Fr. Mike also points out where the Catholic Church draws her doctrine on the difference between mortal and venial sin, as well as what St. Paul means when he teaches that there is only &#34;one mediator&#34; between God and man. Today&#39;s readings are 1 John 4-5, 1 Timothy 1-3, and Proverbs 30: 24-28. </p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3yBse0Yxv39QJ4dR7U81m6",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 356: God Is Love (2022)",
+    "release_date": "2022-12-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3yBse0Yxv39QJ4dR7U81m6"
+}

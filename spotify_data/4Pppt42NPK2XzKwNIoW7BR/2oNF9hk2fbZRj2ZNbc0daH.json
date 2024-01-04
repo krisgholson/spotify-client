@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1slFIK4RQxm8LBIdM79PtX/clip_461900_521900.mp3",
+    "description": "Fr. Mike unpacks the events in Acts 16, describing Paul\u2019s trust in the Lord as God frees him from prison. He connects St. Paul\u2019s conversation about spiritual gifts to the well-known \u201clove\u201d chapter in 1 Corinthians, explaining how love and donation of self gives purpose to the spiritual gifts. Today\u2019s readings are Acts 16, 1 Corinthians 13-14, and Proverbs 28:13-15. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1418553,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2oNF9hk2fbZRj2ZNbc0daH"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2oNF9hk2fbZRj2ZNbc0daH",
+    "html_description": "<p>Fr. Mike unpacks the events in Acts 16, describing Paul\u2019s trust in the Lord as God frees him from prison. He connects St. Paul\u2019s conversation about spiritual gifts to the well-known \u201clove\u201d chapter in 1 Corinthians, explaining how love and donation of self gives purpose to the spiritual gifts. Today\u2019s readings are Acts 16, 1 Corinthians 13-14, and Proverbs 28:13-15.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2oNF9hk2fbZRj2ZNbc0daH",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 337: The Importance of Love (2022)",
+    "release_date": "2022-12-03",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2oNF9hk2fbZRj2ZNbc0daH"
+}

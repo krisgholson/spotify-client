@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1EcMDEbIGa7Zm1DMlkqRhG/clip_1053200_1114700.mp3",
+    "description": "Fr. Mike emphasizes the power of the Holy Spirit exemplified in Paul's interaction with those in Ephesus in Acts 19 and reminds us that God wants to fill  each of us with the same Holy Spirit so we can walk in his strength.  Fr. Mike also highlights the power of sacramentals, the reality of demons acknowledging Jesus, and the importance of removing things in our lives that are harmful. Lastly, as we begin reading the Second Letter of Paul to the Corinthians, we get a glimpse of Paul's heart for the people of Corinth. Today's readings are Acts 19, 2 Corinthians 1-2, and Proverbs 28:22-24. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1214275,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3djaEMnn6szCRBLW7HjlqJ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3djaEMnn6szCRBLW7HjlqJ",
+    "html_description": "<p>Fr. Mike emphasizes the power of the Holy Spirit exemplified in Paul&#39;s interaction with those in Ephesus in Acts 19 and reminds us that God wants to fill  each of us with the same Holy Spirit so we can walk in his strength.  Fr. Mike also highlights the power of sacramentals, the reality of demons acknowledging Jesus, and the importance of removing things in our lives that are harmful. Lastly, as we begin reading the Second Letter of Paul to the Corinthians, we get a glimpse of Paul&#39;s heart for the people of Corinth. Today&#39;s readings are Acts 19, 2 Corinthians 1-2, and Proverbs 28:22-24.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3djaEMnn6szCRBLW7HjlqJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 340: The Power of the Holy Spirit (2023)",
+    "release_date": "2023-12-06",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3djaEMnn6szCRBLW7HjlqJ"
+}

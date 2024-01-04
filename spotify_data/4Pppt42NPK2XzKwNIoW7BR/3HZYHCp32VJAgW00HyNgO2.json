@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1cXxxFNMK1cLHf8mMSvyPs/clip_1123800_1172200.mp3",
+    "description": "As we read about Jesus' entry into Jerusalem, Fr. Mike breaks down Jesus' interactions with his disciples and the sadducees, and his reaction to the widow's offering. We learn that a life rooted in Jesus, is a life that bears good fruit. Today we read Mark 11-12 and Psalm 67. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1332558,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3HZYHCp32VJAgW00HyNgO2"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3HZYHCp32VJAgW00HyNgO2",
+    "html_description": "<p>As we read about Jesus&#39; entry into Jerusalem, Fr. Mike breaks down Jesus&#39; interactions with his disciples and the sadducees, and his reaction to the widow&#39;s offering. We learn that a life rooted in Jesus, is a life that bears good fruit. Today we read Mark 11-12 and Psalm 67.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3HZYHCp32VJAgW00HyNgO2",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 159: Bearing Fruit (2023)",
+    "release_date": "2023-06-08",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3HZYHCp32VJAgW00HyNgO2"
+}

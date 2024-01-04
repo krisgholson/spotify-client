@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4uYaTI5LjELFjZ7rAp1rSZ/clip_283300_340300.mp3",
+    "description": "Fr. Mike kicks off our reading of the book of Numbers by explaining where Israel is at in their journey with the Lord, and how they are keeping him at the center of it all (literally). Today we read from Numbers 1, Deuteronomy 1, and Psalm 84. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1592894,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0dR7Xn41im2BNC3geBdnAi"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0dR7Xn41im2BNC3geBdnAi",
+    "html_description": "<p>Fr. Mike kicks off our reading of the book of Numbers by explaining where Israel is at in their journey with the Lord, and how they are keeping him at the center of it all (literally). Today we read from Numbers 1, Deuteronomy 1, and Psalm 84.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0dR7Xn41im2BNC3geBdnAi",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 52: Israel Continues to Journey (2023)",
+    "release_date": "2023-02-21",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0dR7Xn41im2BNC3geBdnAi"
+}

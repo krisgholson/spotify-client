@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3WNfuMpGuoo8oxH6RgKYci/clip_920900_968500.mp3",
+    "description": "Fr. Mike shares the powerful story of the Holy Spirit coming upon the apostles in the upper room. He emphasizes how God calls us to go out into the world with his Spirit and live in community and with devotion to the apostles\u2019 teaching, fellowship, the Eucharist, and prayer just like the first Christians. Today\u2019s readings are Acts 2, Romans 2-3, and Proverbs 26:27-28. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1435742,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6vRntPsnWrXPP4SWYY5EHq"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6vRntPsnWrXPP4SWYY5EHq",
+    "html_description": "<p>Fr. Mike shares the powerful story of the Holy Spirit coming upon the apostles in the upper room. He emphasizes how God calls us to go out into the world with his Spirit and live in community and with devotion to the apostles\u2019 teaching, fellowship, the Eucharist, and prayer just like the first Christians. Today\u2019s readings are Acts 2, Romans 2-3, and Proverbs 26:27-28.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6vRntPsnWrXPP4SWYY5EHq",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 323: Pentecost (2022)",
+    "release_date": "2022-11-19",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6vRntPsnWrXPP4SWYY5EHq"
+}

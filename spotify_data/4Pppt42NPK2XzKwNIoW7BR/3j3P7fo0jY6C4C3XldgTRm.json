@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1V7CVAscTORnRFDCgptUVE/clip_354100_403600.mp3",
+    "description": "Fr Mike celebrates the accomplishment of reading the entire Old Testament and wraps up the books of 2 Maccabees and Wisdom, talking through the key themes of the Old Testament visible in the conclusions to these books. He also discusses the motivation of the Maccabees to defend the temple and maintain its purity as well as uphold God\u2019s honor. Today\u2019s readings are from 2 Maccabees 15, Wisdom 19, and Proverbs 25:21-23 For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 919719,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3j3P7fo0jY6C4C3XldgTRm"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3j3P7fo0jY6C4C3XldgTRm",
+    "html_description": "<p>Fr Mike celebrates the accomplishment of reading the entire Old Testament and wraps up the books of 2 Maccabees and Wisdom, talking through the key themes of the Old Testament visible in the conclusions to these books. He also discusses the motivation of the Maccabees to defend the temple and maintain its purity as well as uphold God\u2019s honor. Today\u2019s readings are from 2 Maccabees 15, Wisdom 19, and Proverbs 25:21-23</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3j3P7fo0jY6C4C3XldgTRm",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 312: Conclusion to the Old Testament (2022)",
+    "release_date": "2022-11-08",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3j3P7fo0jY6C4C3XldgTRm"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5LbNYZDVRM77ON8nkh5of9/clip_266000_334500.mp3",
+    "description": "As we read about the many miracles Jesus performs in today's readings from Matthew, Fr. Mike asserts the objective reality of those miracles and reinforces that Jesus is truly the Son of God who has power over matter. We learn that in Jesus, we too can do things that we could never do on our own. Today's readings are Matthew 14-17, and Proverbs 19:9-12. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1679151,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0MppfXJ13uXgdRjKzwcEt1"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0MppfXJ13uXgdRjKzwcEt1",
+    "html_description": "<p>As we read about the many miracles Jesus performs in today&#39;s readings from Matthew, Fr. Mike asserts the objective reality of those miracles and reinforces that Jesus is truly the Son of God who has power over matter. We learn that in Jesus, we too can do things that we could never do on our own. Today&#39;s readings are Matthew 14-17, and Proverbs 19:9-12.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0MppfXJ13uXgdRjKzwcEt1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 262: Miracle Worker (2023)",
+    "release_date": "2023-09-19",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0MppfXJ13uXgdRjKzwcEt1"
+}

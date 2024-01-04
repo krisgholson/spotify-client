@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5KQehDru4rdcqDuZIvEooY/clip_1324700_1386300.mp3",
+    "description": "Fr. Mike recalls the death of Lazarus, and how Jesus not only allowed himself to be broken by the sorrow that breaks us but also how he took that hopelessness and brought forth life. He also explains how the covenants we've seen in the Old Testament are all leading to the eternal covenant that will be instituted through Christ on the Cross. Today's readings are John 10-12 and Proverbs 6:1-5. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1514109,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/45p8vNqJlAk0dIawCWcnU2"
+    },
+    "href": "https://api.spotify.com/v1/episodes/45p8vNqJlAk0dIawCWcnU2",
+    "html_description": "<p>Fr. Mike recalls the death of Lazarus, and how Jesus not only allowed himself to be broken by the sorrow that breaks us but also how he took that hopelessness and brought forth life. He also explains how the covenants we&#39;ve seen in the Old Testament are all leading to the eternal covenant that will be instituted through Christ on the Cross. Today&#39;s readings are John 10-12 and Proverbs 6:1-5.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "45p8vNqJlAk0dIawCWcnU2",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 102: The Death of Lazarus (2023)",
+    "release_date": "2023-04-12",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:45p8vNqJlAk0dIawCWcnU2"
+}

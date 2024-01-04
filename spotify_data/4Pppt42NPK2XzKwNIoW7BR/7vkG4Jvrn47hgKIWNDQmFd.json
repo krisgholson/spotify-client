@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3FvhDSg6EphStfNFSsDmEU/clip_267000_314600.mp3",
+    "description": "Welcome to the official start of the Bible in a Year Podcast! We'll begin reading the Bible in the episode \"Day 1: In the Beginning\", but before we dig into scripture, Jeff Cavins joins Fr. Mike Schmitz to lay out the context for the Early World period (Genesis 1-11). They discuss the type of scripture we'll encounter (Hebrew poetry) and how that affects our understanding of the Word. This episode is not part of the 365 day reading plan, but is important to help understand the readings from this period.  For the complete reading plan, text CATHOLICBIBLE to 33-777 or visit ascensionpress.com/bibleinayear.",
+    "duration_ms": 1467193,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7vkG4Jvrn47hgKIWNDQmFd"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7vkG4Jvrn47hgKIWNDQmFd",
+    "html_description": "<p>Welcome to the official start of the Bible in a Year Podcast! We&#39;ll begin reading the Bible in the episode &#34;Day 1: In the Beginning&#34;, but before we dig into scripture, Jeff Cavins joins Fr. Mike Schmitz to lay out the context for the Early World period (Genesis 1-11). They discuss the type of scripture we&#39;ll encounter (Hebrew poetry) and how that affects our understanding of the Word. This episode is not part of the 365 day reading plan, but is important to help understand the readings from this period. </p><br/><p>For the complete reading plan, text CATHOLICBIBLE to 33-777 or visit ascensionpress.com/bibleinayear.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7vkG4Jvrn47hgKIWNDQmFd",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "START HERE: Introduction to the Early World (with Jeff Cavins) - 2021",
+    "release_date": "2023-01-01",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7vkG4Jvrn47hgKIWNDQmFd"
+}

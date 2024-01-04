@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0uKTD6cepivO5eERreI9Uh/clip_191000_253000.mp3",
+    "description": "Fr. Mike clarifies the meaning behind Mattathias' zealous attack against the Greeks and his fellow Jews who were not obeying God's laws. From our reading of Sirach, Fr. Mike reminds us to remember the needs of the poor, and to be careful when forming friendships. Today's readings are 1 Maccabees 2, Sirach 4-6, and Proverbs 22:1-4. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1544568,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4QnZbNAi3fnNejR1TccpG1"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4QnZbNAi3fnNejR1TccpG1",
+    "html_description": "<p>Fr. Mike clarifies the meaning behind Mattathias&#39; zealous attack against the Greeks and his fellow Jews who were not obeying God&#39;s laws. From our reading of Sirach, Fr. Mike reminds us to remember the needs of the poor, and to be careful when forming friendships. Today&#39;s readings are 1 Maccabees 2, Sirach 4-6, and Proverbs 22:1-4.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4QnZbNAi3fnNejR1TccpG1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 283: Mattathias Attacks (2022)",
+    "release_date": "2022-10-10",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4QnZbNAi3fnNejR1TccpG1"
+}

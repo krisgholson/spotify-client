@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1xf9tSVDGZ6GPWOf9fSf3o/clip_937900_1002600.mp3",
+    "description": "As we continue to read about Jesus' ministry, Fr. Mike focuses today on Jesus' power to cast out demons and reminds us that there is an ongoing spiritual battle for our souls. Today's readings are Mark 5-6 and Psalm 21. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1355885,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/57SlmfF6bytuVNHaR2IiJ5"
+    },
+    "href": "https://api.spotify.com/v1/episodes/57SlmfF6bytuVNHaR2IiJ5",
+    "html_description": "<p>As we continue to read about Jesus&#39; ministry, Fr. Mike focuses today on Jesus&#39; power to cast out demons and reminds us that there is an ongoing spiritual battle for our souls. Today&#39;s readings are Mark 5-6 and Psalm 21.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "57SlmfF6bytuVNHaR2IiJ5",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 156:  Jesus Casts Out Demons (2023)",
+    "release_date": "2023-06-05",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:57SlmfF6bytuVNHaR2IiJ5"
+}

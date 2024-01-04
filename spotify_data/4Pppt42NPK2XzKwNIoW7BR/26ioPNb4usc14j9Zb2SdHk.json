@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/74TK0swwUB2D9CwOITikeF/clip_1251700_1308600.mp3",
+    "description": "Fr. Mike shares how verse 1 Peter 3:15 about being ready to give a reason for the faith that is within us has been one of the most influential Bible verses for him. As we start reading 1 Thessalonians today, Fr. Mike also highlights how Paul is encouraged by the faith of the Thessalonians and stresses the importance of not only sharing the gospel but also sharing our very selves. Today's readings are 1 Peter 3-5, 1 Thessalonians 1-3, and Proverbs 30:15-16. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1453035,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/26ioPNb4usc14j9Zb2SdHk"
+    },
+    "href": "https://api.spotify.com/v1/episodes/26ioPNb4usc14j9Zb2SdHk",
+    "html_description": "<p>Fr. Mike shares how verse 1 Peter 3:15 about being ready to give a reason for the faith that is within us has been one of the most influential Bible verses for him. As we start reading 1 Thessalonians today, Fr. Mike also highlights how Paul is encouraged by the faith of the Thessalonians and stresses the importance of not only sharing the gospel but also sharing our very selves. Today&#39;s readings are 1 Peter 3-5, 1 Thessalonians 1-3, and Proverbs 30:15-16.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "26ioPNb4usc14j9Zb2SdHk",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 353: Sharing the Gospel (2022)",
+    "release_date": "2022-12-19",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:26ioPNb4usc14j9Zb2SdHk"
+}

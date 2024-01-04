@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6bfjmCB6sQOJivZf74eTCh/clip_536700_581550.mp3",
+    "description": "Fr. Mike mirrors the story of 1 Maccabees and Israel\u2019s expectations of continued success onto our own lives, emphasizing that God\u2019s marvelous plan exceeds our expectations and what we think should happen next in our lives. He invites us to worship and give to the Lord with freedom and generosity in response to God\u2019s sacrificial love for us. Today\u2019s readings are 1 Maccabees 14, Sirach 34-35, and Proverbs 23:22-25. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1261714,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/14Ce3Dz1Xxj6yznuXRpSjM"
+    },
+    "href": "https://api.spotify.com/v1/episodes/14Ce3Dz1Xxj6yznuXRpSjM",
+    "html_description": "<p>Fr. Mike mirrors the story of 1 Maccabees and Israel\u2019s expectations of continued success onto our own lives, emphasizing that God\u2019s marvelous plan exceeds our expectations and what we think should happen next in our lives. He invites us to worship and give to the Lord with freedom and generosity in response to God\u2019s sacrificial love for us. Today\u2019s readings are 1 Maccabees 14, Sirach 34-35, and Proverbs 23:22-25.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "14Ce3Dz1Xxj6yznuXRpSjM",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 295: Israel's Expectations (2023)",
+    "release_date": "2023-10-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:14Ce3Dz1Xxj6yznuXRpSjM"
+}

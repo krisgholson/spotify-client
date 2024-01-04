@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Gfa5od1t5M4vkyeeo0V6l/clip_1333400_1389820.mp3",
+    "description": "Fr. Mike discusses God\u2019s instruction to the people of Israel not to marry women from foreign lands. He explains why God would provide this instruction and how Ezra reacted when he discovered that many prominent Israelites had not obeyed it. He also identifies the prophecies of Palm Sunday and the thirty pieces of silver found in Zechariah. Today\u2019s readings are Ezra 9-10, Zechariah 9-11, and Proverbs 20:16-19. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1749629,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/33nUZXvG1zOyteqkyw4TX1"
+    },
+    "href": "https://api.spotify.com/v1/episodes/33nUZXvG1zOyteqkyw4TX1",
+    "html_description": "<p>Fr. Mike discusses God\u2019s instruction to the people of Israel not to marry women from foreign lands. He explains why God would provide this instruction and how Ezra reacted when he discovered that many prominent Israelites had not obeyed it. He also identifies the prophecies of Palm Sunday and the thirty pieces of silver found in Zechariah. Today\u2019s readings are Ezra 9-10, Zechariah 9-11, and Proverbs 20:16-19.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "33nUZXvG1zOyteqkyw4TX1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 271: Israel's Foreign Wives (2023)",
+    "release_date": "2023-09-28",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:33nUZXvG1zOyteqkyw4TX1"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4NSwQPD6N9cgl82JRDbdIZ/clip_1351500_1405000.mp3",
+    "description": "Fr. Mike highlights the boldness of Peter and John in our reading from Acts as they stand before the council of church leaders and defend the name of Jesus. He also addresses Paul\u2019s writings on God\u2019s grace given to us in our sinfulness and the war between good and evil present within ourselves. Today\u2019s readings are Acts 4, Romans 6-7, and Proverbs 27:4-6. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1528111,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3Hya3O5fwdlBuyqYzHEXbB"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3Hya3O5fwdlBuyqYzHEXbB",
+    "html_description": "<p>Fr. Mike highlights the boldness of Peter and John in our reading from Acts as they stand before the council of church leaders and defend the name of Jesus. He also addresses Paul\u2019s writings on God\u2019s grace given to us in our sinfulness and the war between good and evil present within ourselves. Today\u2019s readings are Acts 4, Romans 6-7, and Proverbs 27:4-6.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3Hya3O5fwdlBuyqYzHEXbB",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 325: Boldness in Faith (2022)",
+    "release_date": "2022-11-21",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3Hya3O5fwdlBuyqYzHEXbB"
+}

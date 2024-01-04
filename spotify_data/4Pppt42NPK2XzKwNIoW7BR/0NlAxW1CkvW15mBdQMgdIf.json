@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0hKchoKFhEgmEVntzANvjZ/clip_100300_147000.mp3",
+    "description": "Fr. Mike explains the purpose behind the beauty and extravagance of the Temple Solomon built for the Lord. On the other hand, he also points out the issue with the image of power and strength Solomon is trying to portray by gathering so much wealth as King. Today's readings are 1 Kings 6, 2 Chronicles 9, and Psalm 4. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1437596,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0NlAxW1CkvW15mBdQMgdIf"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0NlAxW1CkvW15mBdQMgdIf",
+    "html_description": "<p>Fr. Mike explains the purpose behind the beauty and extravagance of the Temple Solomon built for the Lord. On the other hand, he also points out the issue with the image of power and strength Solomon is trying to portray by gathering so much wealth as King. Today&#39;s readings are 1 Kings 6, 2 Chronicles 9, and Psalm 4.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0NlAxW1CkvW15mBdQMgdIf",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 148: Solomon's Wealth (2022)",
+    "release_date": "2022-05-28",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0NlAxW1CkvW15mBdQMgdIf"
+}

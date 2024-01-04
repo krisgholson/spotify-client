@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/75VaO6o1QrqxxwoszaAmeC/clip_1348200_1392900.mp3",
+    "description": "As we begin reading 1 Peter today, Fr. Mike walks us through Peter's powerful message about persevering in trials, trusting that those sufferings purify our love and faith by teaching us to love God for his own sake and not just the gifts he blesses us with. Finally, as we wrap up Colossians, Fr. Mike highlights St. Paul's call to uphold the obligations we have to others in society, in our family, and in our work.  Today we read 1 Peter 1-2, Colossians 3-4, and Proverbs 30:10-14. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1419676,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2unIu0nSGcYh8BIBwRzGkB"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2unIu0nSGcYh8BIBwRzGkB",
+    "html_description": "<p>As we begin reading 1 Peter today, Fr. Mike walks us through Peter&#39;s powerful message about persevering in trials, trusting that those sufferings purify our love and faith by teaching us to love God for his own sake and not just the gifts he blesses us with. Finally, as we wrap up Colossians, Fr. Mike highlights St. Paul&#39;s call to uphold the obligations we have to others in society, in our family, and in our work.  Today we read 1 Peter 1-2, Colossians 3-4, and Proverbs 30:10-14.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2unIu0nSGcYh8BIBwRzGkB",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 352: Purified by Fire (2023)",
+    "release_date": "2023-12-18",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2unIu0nSGcYh8BIBwRzGkB"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3pDPcnmGQaR32w69mOahKp/clip_1390800_1454400.mp3",
+    "description": "Today's readings are Judges 9-11, Ruth 4, and Psalm 137. In the reading from Judges, we hear about the rise and fall of Abimelech, as well as the misguided and heartbreaking vow Jephthah makes to God in return for victory over the Ammonites. We also conclude the book of Ruth with the marriage of Boaz and Ruth. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1702191,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1KnbjzStr78qF9fUTDFhFh"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1KnbjzStr78qF9fUTDFhFh",
+    "html_description": "<p>Today&#39;s readings are Judges 9-11, Ruth 4, and Psalm 137. In the reading from Judges, we hear about the rise and fall of Abimelech, as well as the misguided and heartbreaking vow Jephthah makes to God in return for victory over the Ammonites. We also conclude the book of Ruth with the marriage of Boaz and Ruth.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1KnbjzStr78qF9fUTDFhFh",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 92: Jephthah's Vow (2022)",
+    "release_date": "2022-04-02",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1KnbjzStr78qF9fUTDFhFh"
+}

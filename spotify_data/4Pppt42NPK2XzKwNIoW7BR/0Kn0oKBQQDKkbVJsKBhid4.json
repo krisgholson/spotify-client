@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5iWDMz0yKqmg3K4Pk2GZpA/clip_318400_363800.mp3",
+    "description": "Fr. Mike focuses on the last words Joshua speaks to the people of Israel, and how he calls them to choose the Lord above all other things. We all have idols in our lives that take us away from God; how are we choosing to love Christ above these idols today? Today's readings are Joshua 22-24, and Psalm 132. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1308107,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0Kn0oKBQQDKkbVJsKBhid4"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0Kn0oKBQQDKkbVJsKBhid4",
+    "html_description": "<p>Fr. Mike focuses on the last words Joshua speaks to the people of Israel, and how he calls them to choose the Lord above all other things. We all have idols in our lives that take us away from God; how are we choosing to love Christ above these idols today? Today&#39;s readings are Joshua 22-24, and Psalm 132.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0Kn0oKBQQDKkbVJsKBhid4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 88: Joshua's Last Words to Israel (2022)",
+    "release_date": "2022-03-29",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0Kn0oKBQQDKkbVJsKBhid4"
+}

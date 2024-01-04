@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6KdqJ5GkSGRnDGrEDOMN69/clip_988000_1044700.mp3",
+    "description": "As we continue to read about Saul's vanity and disobedience, Fr. Mike emphasizes the importance of the virtue of obedience in our relationship with God. He also points out how God chose David to be anointed as king because David was a man after God's own heart. Today's readings are 1 Samuel 15-16 and Psalm 61. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1068277,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7ebNVZVaqWCsQs7QU6jqrr"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7ebNVZVaqWCsQs7QU6jqrr",
+    "html_description": "<p>As we continue to read about Saul&#39;s vanity and disobedience, Fr. Mike emphasizes the importance of the virtue of obedience in our relationship with God. He also points out how God chose David to be anointed as king because David was a man after God&#39;s own heart. Today&#39;s readings are 1 Samuel 15-16 and Psalm 61.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7ebNVZVaqWCsQs7QU6jqrr",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 109: A Heart of Obedience (2022)",
+    "release_date": "2022-04-19",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7ebNVZVaqWCsQs7QU6jqrr"
+}

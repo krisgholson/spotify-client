@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/00nPuLKqpZFEggssiqAYjT/clip_353021_413021.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Mark 9: 38-40 - 'Do not stop anyone from working a miracle in my name.'  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 604786,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7r1u5wRbHLTZ4IyfLV3mZC"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7r1u5wRbHLTZ4IyfLV3mZC",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Mark 9: 38-40 - &#39;Do not stop anyone from working a miracle in my name.&#39;</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "7r1u5wRbHLTZ4IyfLV3mZC",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Wednesday of Week 7 in Ordinary Time - Mark 9: 38-40",
+    "release_date": "2023-02-20",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7r1u5wRbHLTZ4IyfLV3mZC"
+}

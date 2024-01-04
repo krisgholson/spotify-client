@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1PXdmZIWV5fkcKw6afR683/clip_832500_885900.mp3",
+    "description": "To support the\u00a0ministry and access exclusive content, go to: \u2060\u2060http://patreon.com/logicalbiblestudy\u2060\u2060 For complete verse-by-verse audio commentaries from Logical Bible Study, go to: \u2060\u2060https://mysoundwise.com/publishers/1677296682850p  In this bonus episode, we get ready to hear from the Gospel of Luke in the coming weeks, by discussing the author, date, audience, purpose and themes of the book. Resources:   The Gospel of Luke (Catholic Commentary on Sacred Scripture) - Pablo T. Gadenz    ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1361827,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6Zi1jGfNWi0kIjPAyECeOg"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6Zi1jGfNWi0kIjPAyECeOg",
+    "html_description": "<p>To support the\u00a0ministry and access exclusive content, go to: <a href=\"https://www.patreon.com/logicalbiblestudy\" rel=\"nofollow\">\u2060\u2060http://patreon.com/logicalbiblestudy\u2060\u2060</a></p><br/><p>For complete verse-by-verse audio commentaries from Logical Bible Study, go to: <a href=\"https://mysoundwise.com/publishers/1677296682850p\" rel=\"nofollow\">\u2060\u2060https://mysoundwise.com/publishers/1677296682850p</a></p><br/><p><br /></p><br/><p>In this bonus episode, we get ready to hear from the Gospel of Luke in the coming weeks, by discussing the author, date, audience, purpose and themes of the book.<br /></p><br/><p>Resources:</p><br/><ul><li><a href=\"https://www.amazon.com.au/Gospel-Catholic-Commentary-Sacred-Scripture-ebook/dp/B07D6XGF83/ref&#61;sr_1_1?dchild&#61;1&amp;keywords&#61;gospel&#43;of&#43;luke&#43;gadenz&amp;qid&#61;1598242523&amp;s&#61;books&amp;sr&#61;1-1-catcorr\" rel=\"nofollow\">The Gospel of Luke (Catholic Commentary on Sacred Scripture) - Pablo T. Gadenz</a></li></ul><br/><p><br /></p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "6Zi1jGfNWi0kIjPAyECeOg",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Gospel of Luke Introduction",
+    "release_date": "2023-09-03",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6Zi1jGfNWi0kIjPAyECeOg"
+}

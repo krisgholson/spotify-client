@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4NHTnJo8tSfH8taYFRXgBI/clip_445200_506400.mp3",
+    "description": "Fr. Mike highlights the life of Ruth, and what seems to be the first day of hope she's had in a long time. Sometimes it takes a long time to catch a glimmer of hope in the darkness of our lives, but Ruth reminds us that no matter what we've been through, God is always with us. Today's readings are Judges 4-5, Ruth 2, and Psalm 134. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1208946,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3bj3xUEHSFucVUVc1WLxIa"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3bj3xUEHSFucVUVc1WLxIa",
+    "html_description": "<p>Fr. Mike highlights the life of Ruth, and what seems to be the first day of hope she&#39;s had in a long time. Sometimes it takes a long time to catch a glimmer of hope in the darkness of our lives, but Ruth reminds us that no matter what we&#39;ve been through, God is always with us. Today&#39;s readings are Judges 4-5, Ruth 2, and Psalm 134.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3bj3xUEHSFucVUVc1WLxIa",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 90: Ruth and Boaz (2023)",
+    "release_date": "2023-03-31",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3bj3xUEHSFucVUVc1WLxIa"
+}

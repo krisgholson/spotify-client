@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2Ybm6hZ2k4z0syrPeAq75P/clip_1067500_1127200.mp3",
+    "description": "As we draw near to the end of the Gospel of Luke, Fr. Mike briefly expands on the story of the poor widow\u2019s offering, emphasizing that the Lord cares more about the size of our hearts than about the size of our gifts. Fr. Mike also underscores Jesus\u2019 moving words to Peter when he foretells Peter\u2019s denial. Jesus\u2019 words remind us that no matter how fiercely the enemy tries to attack us, he is always praying for each and every one of us. Today's readings are Luke 20-22:38 and Proverbs 26:17-19. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1388564,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/72rVYvXTOeRfjmspuSdan6"
+    },
+    "href": "https://api.spotify.com/v1/episodes/72rVYvXTOeRfjmspuSdan6",
+    "html_description": "<p>As we draw near to the end of the Gospel of Luke, Fr. Mike briefly expands on the story of the poor widow\u2019s offering, emphasizing that the Lord cares more about the size of our hearts than about the size of our gifts. Fr. Mike also underscores Jesus\u2019 moving words to Peter when he foretells Peter\u2019s denial. Jesus\u2019 words remind us that no matter how fiercely the enemy tries to attack us, he is always praying for each and every one of us. Today&#39;s readings are Luke 20-22:38 and Proverbs 26:17-19.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "72rVYvXTOeRfjmspuSdan6",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 320: Peter's Denial Foretold (2023)",
+    "release_date": "2023-11-16",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:72rVYvXTOeRfjmspuSdan6"
+}

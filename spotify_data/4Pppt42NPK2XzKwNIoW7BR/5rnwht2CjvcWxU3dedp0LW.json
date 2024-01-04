@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7rxEb2IhJQKP8FiKjrQuhZ/clip_1095300_1148700.mp3",
+    "description": "Fr. Mike highlights the mysterious role suffering in Job's life as we continue journeying through Genesis 31-32, Job 21-22, and Proverbs 3:9-12. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1406981,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5rnwht2CjvcWxU3dedp0LW"
+    },
+    "href": "https://api.spotify.com/v1/episodes/5rnwht2CjvcWxU3dedp0LW",
+    "html_description": "<p>Fr. Mike highlights the mysterious role suffering in Job&#39;s life as we continue journeying through Genesis 31-32, Job 21-22, and Proverbs 3:9-12.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "5rnwht2CjvcWxU3dedp0LW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 16: The Suffering of Job (2022)",
+    "release_date": "2022-01-16",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:5rnwht2CjvcWxU3dedp0LW"
+}

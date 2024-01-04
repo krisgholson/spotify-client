@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0T16UyIHNo8vNwiRCkWd72/clip_608599_668599.mp3",
+    "description": "In this bonus episode, we get ready to hear from the Gospel of John in the coming weeks, by discussing the author, date, audience, purpose and themes of the book. \u00a0\u00a0  GOSPEL OF JOHN RESOURCES: - The Gospel of John (Catholic Commentary on Sacred Scripture) - Francis Martin & William M Wright IV - Ignatius Catholic Study Bible: The Gospel of John - Scott Hahn & Curtis Mitch - The Gospel for all Christians: Rethinking the Gospel Audiences - Richard Bauckham  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1800475,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5pTgo2iPhHN1vlSw9Jsg3l"
+    },
+    "href": "https://api.spotify.com/v1/episodes/5pTgo2iPhHN1vlSw9Jsg3l",
+    "html_description": "<p>In this bonus episode, we get ready to hear from the Gospel of John in the coming weeks, by discussing the author, date, audience, purpose and themes of the book. \u00a0\u00a0</p><br/><p><br /></p><br/><p>GOSPEL OF JOHN RESOURCES:</p><br/><p>- <a href=\"https://www.amazon.com/Gospel-Catholic-Commentary-Sacred-Scripture-ebook/dp/B00MBTYBB2/ref&#61;sr_1_1?dchild&#61;1&amp;keywords&#61;catholic&#43;commentary&#43;on&#43;sacred&#43;sciptue&#43;john&amp;qid&#61;1587028299&amp;s&#61;books&amp;sr&#61;1-1-spell\" rel=\"nofollow\">The Gospel of John (Catholic Commentary on Sacred Scripture) - Francis Martin &amp; William M Wright IV</a></p><br/><p>- <a href=\"https://www.amazon.com/Ignatius-Catholic-Study-Bible-Gospel-ebook/dp/B00887PYYO/ref&#61;sr_1_1?dchild&#61;1&amp;keywords&#61;ignatius&#43;catholic&#43;study&#43;bible&#43;john&amp;qid&#61;1587028372&amp;s&#61;books&amp;sr&#61;1-1\" rel=\"nofollow\">Ignatius Catholic Study Bible: The Gospel of John - Scott Hahn &amp; Curtis Mitch</a></p><br/><p>- <a href=\"https://www.amazon.com/Gospels-All-Christians-Rethinking-Audiences-ebook/dp/B002OSXN9G/ref&#61;sr_1_1?dchild&#61;1&amp;keywords&#61;the&#43;gospel&#43;for&#43;all&#43;christians&amp;qid&#61;1587028414&amp;s&#61;books&amp;sr&#61;1-1\" rel=\"nofollow\">The Gospel for all Christians: Rethinking the Gospel Audiences - Richard Bauckham</a></p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "5pTgo2iPhHN1vlSw9Jsg3l",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Gospel of John Introduction",
+    "release_date": "2023-03-20",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:5pTgo2iPhHN1vlSw9Jsg3l"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3TruO5wtC3h1A1czq5Q0A8/clip_880400_929900.mp3",
+    "description": "Today we read the epic story of how David defeats Goliath, a giant Philistine warrior. Fr. Mike points out that David's heroic courage in this battle came from David's faithfulness to God and to the small tasks entrusted to him as a shepherd. We learn that when we are faithful and courageous in small matters, we can face the giants in our bigger battles. Today's readings are 1 Samuel 17 and Psalm 12. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1132904,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3OYpE3WtxFI4MMaZ4NxVKF"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3OYpE3WtxFI4MMaZ4NxVKF",
+    "html_description": "<p>Today we read the epic story of how David defeats Goliath, a giant Philistine warrior. Fr. Mike points out that David&#39;s heroic courage in this battle came from David&#39;s faithfulness to God and to the small tasks entrusted to him as a shepherd. We learn that when we are faithful and courageous in small matters, we can face the giants in our bigger battles. Today&#39;s readings are 1 Samuel 17 and Psalm 12.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3OYpE3WtxFI4MMaZ4NxVKF",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 110: David and Goliath (2022)",
+    "release_date": "2022-04-20",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3OYpE3WtxFI4MMaZ4NxVKF"
+}

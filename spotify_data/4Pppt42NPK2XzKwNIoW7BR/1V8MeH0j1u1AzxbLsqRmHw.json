@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3sGHWXAB67tkDbcXigYbUB/clip_167800_223500.mp3",
+    "description": "Fr. Mike comments on the growing divide between Judaism and Christianity that Paul experiences on mission in Acts 21. In 2 Corinthians, Fr. Mike explains the difference between Godly grief that brings us to repentance, and worldly grief that leads us to destruction. We also learn about the importance of imitating the generosity of Christ. Today's readings are Acts 21, 2 Corinthians 6-8, and Proverbs 29:1-4. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1337208,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1V8MeH0j1u1AzxbLsqRmHw"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1V8MeH0j1u1AzxbLsqRmHw",
+    "html_description": "<p>Fr. Mike comments on the growing divide between Judaism and Christianity that Paul experiences on mission in Acts 21. In 2 Corinthians, Fr. Mike explains the difference between Godly grief that brings us to repentance, and worldly grief that leads us to destruction. We also learn about the importance of imitating the generosity of Christ. Today&#39;s readings are Acts 21, 2 Corinthians 6-8, and Proverbs 29:1-4.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1V8MeH0j1u1AzxbLsqRmHw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 342: Generous Hearts (2023)",
+    "release_date": "2023-12-08",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1V8MeH0j1u1AzxbLsqRmHw"
+}

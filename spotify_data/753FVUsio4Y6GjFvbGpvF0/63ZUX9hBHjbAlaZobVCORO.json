@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0kgH39V0tdW5qyoTGguU6Y/clip_136712_196712.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Matthew 14: 22-36 - 'Jesus walks on the water.'  Catechism of the Catholic Church Paragraphs: - 448 (in 'Lord') - Very often in the Gospels people address Jesus as \"Lord\". This title testifies to the respect and trust of those who approach him for help and healing. At the prompting of the Holy Spirit, \"Lord\" expresses the recognition of the divine mystery of Jesus. In the encounter with the risen Jesus, this title becomes adoration: \"My Lord and my God!\" It thus takes on a connotation of love and affection that remains proper to the Christian tradition: \"It is the Lord!\"  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1411332,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/63ZUX9hBHjbAlaZobVCORO"
+    },
+    "href": "https://api.spotify.com/v1/episodes/63ZUX9hBHjbAlaZobVCORO",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Matthew 14: 22-36 - &#39;Jesus walks on the water.&#39;</p><br/><p><br /></p><br/><p>Catechism of the Catholic Church Paragraphs:</p><br/><p>- 448 (in &#39;Lord&#39;) - Very often in the Gospels people address Jesus as &#34;Lord&#34;. This title testifies to the respect and trust of those who approach him for help and healing. At the prompting of the Holy Spirit, &#34;Lord&#34; expresses the recognition of the divine mystery of Jesus. In the encounter with the risen Jesus, this title becomes adoration: &#34;My Lord and my God!&#34; It thus takes on a connotation of love and affection that remains proper to the Christian tradition: &#34;It is the Lord!&#34;</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "63ZUX9hBHjbAlaZobVCORO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a0a9b8daf7c7719b33ed7863e",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f0a9b8daf7c7719b33ed7863e",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d0a9b8daf7c7719b33ed7863e",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Monday of Week 18 in Ordinary Time (Year A) - Matt 14: 22-36",
+    "release_date": "2020-08-02",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:63ZUX9hBHjbAlaZobVCORO"
+}

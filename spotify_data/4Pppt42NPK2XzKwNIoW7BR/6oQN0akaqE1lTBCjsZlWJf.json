@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7Ad7KDEmpnPBpQSoNUv6kq/clip_1005800_1054200.mp3",
+    "description": "Fr. Mike points out how easy it is to take good things and make idols out of them, setting them up as God's rivals for our hearts. We can discover these rivals by noticing the things we prioritize over spending time with God. The readings are 2 Maccabees 13, Wisdom 15-16, and Proverbs 25:15-17. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1256150,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6oQN0akaqE1lTBCjsZlWJf"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6oQN0akaqE1lTBCjsZlWJf",
+    "html_description": "<p>Fr. Mike points out how easy it is to take good things and make idols out of them, setting them up as God&#39;s rivals for our hearts. We can discover these rivals by noticing the things we prioritize over spending time with God. The readings are 2 Maccabees 13, Wisdom 15-16, and Proverbs 25:15-17.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6oQN0akaqE1lTBCjsZlWJf",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 310: Rivals for the Heart (2023)",
+    "release_date": "2023-11-06",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6oQN0akaqE1lTBCjsZlWJf"
+}

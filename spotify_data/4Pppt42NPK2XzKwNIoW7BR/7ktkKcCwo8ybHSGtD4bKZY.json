@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5C8miS7wovlG06qQr6ALGi/clip_966900_1016700.mp3",
+    "description": "Fr. Mike reflects on the goodness and providence of God the Father, emphasizing how Jesus calls us to be shamelessly persistent in prayer. Fr. Mike also explains two difficult passages found in today's readings: what Jesus means when he tells the story of an unclean spirit who is cast out only to return, and what Jesus means when he says he comes not to bring peace but division. Today's readings are Luke 11-12 and Proverbs 26:7-9. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1612930,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7ktkKcCwo8ybHSGtD4bKZY"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7ktkKcCwo8ybHSGtD4bKZY",
+    "html_description": "<p>Fr. Mike reflects on the goodness and providence of God the Father, emphasizing how Jesus calls us to be shamelessly persistent in prayer. Fr. Mike also explains two difficult passages found in today&#39;s readings: what Jesus means when he tells the story of an unclean spirit who is cast out only to return, and what Jesus means when he says he comes not to bring peace but division. Today&#39;s readings are Luke 11-12 and Proverbs 26:7-9.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7ktkKcCwo8ybHSGtD4bKZY",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 317: Persistence in Prayer (2022)",
+    "release_date": "2022-11-13",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7ktkKcCwo8ybHSGtD4bKZY"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Phn5B1Zp9ZRf9XdRHtRZ3/clip_989900_1037599.mp3",
+    "description": "Fr. Mike explains sins of omission, and how these are some of the biggest deciding factors of who goes to heaven and who goes to hell: whether or not we did good works God called us to. He also reminds us that not all of the New Testament parables are universally relevant, recalling the parable of the talents and the parable of the wise and foolish maidens. Today's readings are Matthew 25-26 and Proverbs 19:21-24. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1588297,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/14RArUnE6KfsB2aMstWOIO"
+    },
+    "href": "https://api.spotify.com/v1/episodes/14RArUnE6KfsB2aMstWOIO",
+    "html_description": "<p>Fr. Mike explains sins of omission, and how these are some of the biggest deciding factors of who goes to heaven and who goes to hell: whether or not we did good works God called us to. He also reminds us that not all of the New Testament parables are universally relevant, recalling the parable of the talents and the parable of the wise and foolish maidens. Today&#39;s readings are Matthew 25-26 and Proverbs 19:21-24.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "14RArUnE6KfsB2aMstWOIO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 265: Sins of Omission (2023)",
+    "release_date": "2023-09-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:14RArUnE6KfsB2aMstWOIO"
+}

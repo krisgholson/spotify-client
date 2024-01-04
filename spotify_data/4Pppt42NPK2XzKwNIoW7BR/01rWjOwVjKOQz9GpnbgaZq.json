@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1KIMSPeIIh5itZNrUV1p18/clip_1371400_1415600.mp3",
+    "description": "Fr. Mike looks into David's last words to his son Solomon and explains why it could have been hard for him to take David's advice. He also points out the important role of the mother of the king, and how this will foreshadow the role of Mary in the New Testament. Today's readings are 1 Kings 2, 2 Chronicles 2-3, and Psalm 62. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1518393,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/01rWjOwVjKOQz9GpnbgaZq"
+    },
+    "href": "https://api.spotify.com/v1/episodes/01rWjOwVjKOQz9GpnbgaZq",
+    "html_description": "<p>Fr. Mike looks into David&#39;s last words to his son Solomon and explains why it could have been hard for him to take David&#39;s advice. He also points out the important role of the mother of the king, and how this will foreshadow the role of Mary in the New Testament. Today&#39;s readings are 1 Kings 2, 2 Chronicles 2-3, and Psalm 62.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "01rWjOwVjKOQz9GpnbgaZq",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 144: David's Last Words (2023)",
+    "release_date": "2023-05-24",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:01rWjOwVjKOQz9GpnbgaZq"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0Rtab8H87AePCA5APK55Bi/clip_890100_938900.mp3",
+    "description": "Fr. Mike takes us through the last chapter of Daniel and explains how Daniel models for us on how to live in exile and still be faithful to the Lord. We also see in Jeremiah the Lord promise a new covenant that will ultimately be fulfilled in Jesus Christ. Today\u2019s readings are Jeremiah 31, Daniel 14, and Proverbs 16:21-24. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1304346,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7sKGqpdQoy14KjGTUFNC7B"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7sKGqpdQoy14KjGTUFNC7B",
+    "html_description": "<p>Fr. Mike takes us through the last chapter of Daniel and explains how Daniel models for us on how to live in exile and still be faithful to the Lord. We also see in Jeremiah the Lord promise a new covenant that will ultimately be fulfilled in Jesus Christ. Today\u2019s readings are Jeremiah 31, Daniel 14, and Proverbs 16:21-24.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7sKGqpdQoy14KjGTUFNC7B",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 245: The Faithfulness of Daniel (2023)",
+    "release_date": "2023-09-02",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7sKGqpdQoy14KjGTUFNC7B"
+}

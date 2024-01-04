@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3PLWdxuiADv435crR5446J/clip_284300_343600.mp3",
+    "description": "As we read from Proverbs and Sirach, Fr. Mike points out how everything God has made is good, but we can use those things for evil ends. We also reach the conclusion of 1 Maccabees today. The readings are 1 Maccabees 16, Sirach 38-39, and Proverbs 23:29-35. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1235121,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1EpTVl2eSjXi4stzZq3nt1"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1EpTVl2eSjXi4stzZq3nt1",
+    "html_description": "<p>As we read from Proverbs and Sirach, Fr. Mike points out how everything God has made is good, but we can use those things for evil ends. We also reach the conclusion of 1 Maccabees today. The readings are 1 Maccabees 16, Sirach 38-39, and Proverbs 23:29-35.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1EpTVl2eSjXi4stzZq3nt1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 297: Using Good Things for Evil (2022)",
+    "release_date": "2022-10-24",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1EpTVl2eSjXi4stzZq3nt1"
+}

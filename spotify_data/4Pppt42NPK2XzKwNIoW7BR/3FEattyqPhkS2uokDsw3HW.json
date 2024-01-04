@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0I6NukLpiSuT4Q0aS9Jlbi/clip_643400_697600.mp3",
+    "description": "Fr. Mike Schmitz is joined by renowned Catholic Bible scholar Jeff Cavins to talk about The Great Adventure Bible Timeline, their personal experiences with the Bible, and what it means to live life through the lens of Scripture.  For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1333524,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3FEattyqPhkS2uokDsw3HW"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3FEattyqPhkS2uokDsw3HW",
+    "html_description": "<p>Fr. Mike Schmitz is joined by renowned Catholic Bible scholar Jeff Cavins to talk about The Great Adventure Bible Timeline, their personal experiences with the Bible, and what it means to live life through the lens of Scripture. </p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3FEattyqPhkS2uokDsw3HW",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "BONUS: Bringing the Bible Back to Catholics (with Jeff Cavins)- 2022",
+    "release_date": "2021-12-28",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3FEattyqPhkS2uokDsw3HW"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4kJ2gQGW3gmbrfCMT37iFE/clip_626100_672600.mp3",
+    "description": "Fr. Mike points out how violence begets violence in the reading from 2 Samuel, and shows us how the sins we commit extend much further than ourselves. We also read about the Temple musicians in 1 Chronicles, we hear Psalm 39, written by one of those musicians, Jeduthun. Today's reading are 2 Samuel 20, 1 Chronicles 25, and Psalm 39. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1141629,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/483EqiENN6fWXJzdPIc1ZQ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/483EqiENN6fWXJzdPIc1ZQ",
+    "html_description": "<p>Fr. Mike points out how violence begets violence in the reading from 2 Samuel, and shows us how the sins we commit extend much further than ourselves. We also read about the Temple musicians in 1 Chronicles, we hear Psalm 39, written by one of those musicians, Jeduthun. Today&#39;s reading are 2 Samuel 20, 1 Chronicles 25, and Psalm 39.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "483EqiENN6fWXJzdPIc1ZQ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 138: The Effect of Sin on Others (2022)",
+    "release_date": "2022-05-18",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:483EqiENN6fWXJzdPIc1ZQ"
+}

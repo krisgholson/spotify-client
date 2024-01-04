@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/449F40biZ9D9zMxf5kAJNG/clip_713400_776900.mp3",
+    "description": "Fr. Mike encourages us to never stop talking to God, even in the hardest seasons of our lives. Much like yesterday's readings, we're seeing a lot of pain and suffering the lives of our brothers and sisters, but we still have so much to hope for. Today\u2019s readings are Jeremiah 51, Lamentations 4-5, and Proverbs 18:9-12. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1569488,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1HiRLZIecduThbJtheFI2b"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1HiRLZIecduThbJtheFI2b",
+    "html_description": "<p>Fr. Mike encourages us to never stop talking to God, even in the hardest seasons of our lives. Much like yesterday&#39;s readings, we&#39;re seeing a lot of pain and suffering the lives of our brothers and sisters, but we still have so much to hope for. Today\u2019s readings are Jeremiah 51, Lamentations 4-5, and Proverbs 18:9-12.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1HiRLZIecduThbJtheFI2b",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 256: Hard Seasons (2022)",
+    "release_date": "2022-09-13",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1HiRLZIecduThbJtheFI2b"
+}

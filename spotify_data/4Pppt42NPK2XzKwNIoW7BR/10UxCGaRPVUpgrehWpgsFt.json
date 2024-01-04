@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0yRFVQ0VNvUWsxhGAI6XCP/clip_1037900_1089700.mp3",
+    "description": "Fr. Mike touches on one of his favorite bible stories about David's mighty men and discusses his attitude in old age. At the end of his life, David chooses not to dwell on his mistakes, but to recognize the people around him and the blessings he received, which helped him accomplish what God was calling him to do. Today's readings are 2 Samuel 23, 1 Chronicles 28, and Psalm 42. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1178984,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/10UxCGaRPVUpgrehWpgsFt"
+    },
+    "href": "https://api.spotify.com/v1/episodes/10UxCGaRPVUpgrehWpgsFt",
+    "html_description": "<p>Fr. Mike touches on one of his favorite bible stories about David&#39;s mighty men and discusses his attitude in old age. At the end of his life, David chooses not to dwell on his mistakes, but to recognize the people around him and the blessings he received, which helped him accomplish what God was calling him to do. Today&#39;s readings are 2 Samuel 23, 1 Chronicles 28, and Psalm 42.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "10UxCGaRPVUpgrehWpgsFt",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 141: The Life of David (2022)",
+    "release_date": "2022-05-21",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:10UxCGaRPVUpgrehWpgsFt"
+}

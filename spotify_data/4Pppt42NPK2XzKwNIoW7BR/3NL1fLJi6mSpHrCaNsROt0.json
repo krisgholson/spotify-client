@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2uvN5fVvw1ED7bTOhrDyJT/clip_1035700_1094300.mp3",
+    "description": "In our reading of Acts 20,  Fr. Mike reflects on the healing of Eutychus, Paul's willingness to suffer for the sake of the Gospel, and Paul's tender affection for the people he ministered to. In 2 Corinthians, Fr. Mike also highlights Paul's encouragement to hold onto the hope of beholding the glory of God with unveiled faces and to persevere in our afflictions as they prepare for us an eternal weight of glory beyond all comparison. Today's readings are Acts 20, 2 Corinthians 3-5, and Proverbs 28:25-28. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1409201,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3NL1fLJi6mSpHrCaNsROt0"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3NL1fLJi6mSpHrCaNsROt0",
+    "html_description": "<p>In our reading of Acts 20,  Fr. Mike reflects on the healing of Eutychus, Paul&#39;s willingness to suffer for the sake of the Gospel, and Paul&#39;s tender affection for the people he ministered to. In 2 Corinthians, Fr. Mike also highlights Paul&#39;s encouragement to hold onto the hope of beholding the glory of God with unveiled faces and to persevere in our afflictions as they prepare for us an eternal weight of glory beyond all comparison. Today&#39;s readings are Acts 20, 2 Corinthians 3-5, and Proverbs 28:25-28.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3NL1fLJi6mSpHrCaNsROt0",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 341: Eternal Weight of Glory (2023)",
+    "release_date": "2023-12-07",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3NL1fLJi6mSpHrCaNsROt0"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/33f2qccZC6QK0IIzbpOLfu/clip_956600_1011000.mp3",
+    "description": "Fr. Mike reads the story of Solomon's greatest action as king: building a temple for the Lord, showing us how important it is to give glory to the Lord for all he's done for us. He is learning from his father's mistakes, but this story will sadly conclude the greatest moments of his life. Today's readings are 1 Kings 3, 2 Chronicles 4-5, and Psalm 64. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1211167,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5e1opah3FHdrpnULOIYtfZ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/5e1opah3FHdrpnULOIYtfZ",
+    "html_description": "<p>Fr. Mike reads the story of Solomon&#39;s greatest action as king: building a temple for the Lord, showing us how important it is to give glory to the Lord for all he&#39;s done for us. He is learning from his father&#39;s mistakes, but this story will sadly conclude the greatest moments of his life. Today&#39;s readings are 1 Kings 3, 2 Chronicles 4-5, and Psalm 64.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "5e1opah3FHdrpnULOIYtfZ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 145: Solomon Builds the Temple (2022)",
+    "release_date": "2022-05-25",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:5e1opah3FHdrpnULOIYtfZ"
+}

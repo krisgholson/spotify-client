@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4g24I1f14PAGnvcRAbG5qr/clip_1161300_1221100.mp3",
+    "description": "Fr. Mike summarizes the final moments of the book of Nehemiah, when Nehemiah returns to find the people of Israel being unfaithful to God\u2019s commandments and marrying foreign wives. Fr. Mike connects this to our lives, as we too often confuse God\u2019s unending love for us to mean that he always wants what we want.Today\u2019s readings are Nehemiah 13, Malachi 1-4, and Proverbs 21: 25-28.  For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1608986,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3Tm42vhrleUeyJXZ5X5lxj"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3Tm42vhrleUeyJXZ5X5lxj",
+    "html_description": "<p>Fr. Mike summarizes the final moments of the book of Nehemiah, when Nehemiah returns to find the people of Israel being unfaithful to God\u2019s commandments and marrying foreign wives. Fr. Mike connects this to our lives, as we too often confuse God\u2019s unending love for us to mean that he always wants what we want.Today\u2019s readings are Nehemiah 13, Malachi 1-4, and Proverbs 21: 25-28. </p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3Tm42vhrleUeyJXZ5X5lxj",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 281: Good and Evil (2022)",
+    "release_date": "2022-10-08",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3Tm42vhrleUeyJXZ5X5lxj"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/35TsNL3lcv2REbt32Bv3vp/clip_225600_279600.mp3",
+    "description": "Fr. Mike continues to explain the parables Christ recites in Jerusalem, specifically focusing on the dangers of preaching God's Word without practicing it in our lives. Jesus goes on to speak against the Scribes and Pharisees, reminding us that he's not only the Prince of Peace, but the Way and the Truth. Today's readings are Matthew 22-24 and Proverbs 19:17-20. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1589681,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7DIo2Eyh8evt8X5k8yvVyZ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7DIo2Eyh8evt8X5k8yvVyZ",
+    "html_description": "<p>Fr. Mike continues to explain the parables Christ recites in Jerusalem, specifically focusing on the dangers of preaching God&#39;s Word without practicing it in our lives. Jesus goes on to speak against the Scribes and Pharisees, reminding us that he&#39;s not only the Prince of Peace, but the Way and the Truth. Today&#39;s readings are Matthew 22-24 and Proverbs 19:17-20.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7DIo2Eyh8evt8X5k8yvVyZ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 264: Preaching Without Practice (2022)",
+    "release_date": "2022-09-21",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7DIo2Eyh8evt8X5k8yvVyZ"
+}

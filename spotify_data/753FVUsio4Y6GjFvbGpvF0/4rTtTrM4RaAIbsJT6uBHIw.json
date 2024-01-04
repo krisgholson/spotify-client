@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0T2KEfpBiTaM5nGov1BgmB/clip_1089300_1132100.mp3",
+    "description": "To support the\u00a0ministry and access exclusive content, go to: \u2060\u2060\u2060\u2060http://patreon.com/logicalbiblestudy\u2060\u2060\u2060\u2060 For complete verse-by-verse audio commentaries from Logical Bible Study, go to: \u2060\u2060\u2060\u2060https://mysoundwise.com/publishers/1677296682850p  Luke 14: 15-24 - 'None of those who were invited shall have a taste of my banquet.'  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1881536,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4rTtTrM4RaAIbsJT6uBHIw"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4rTtTrM4RaAIbsJT6uBHIw",
+    "html_description": "<p>To support the\u00a0ministry and access exclusive content, go to: <a href=\"https://www.patreon.com/logicalbiblestudy\" rel=\"nofollow\">\u2060\u2060\u2060\u2060http://patreon.com/logicalbiblestudy\u2060\u2060\u2060\u2060</a></p><br/><p>For complete verse-by-verse audio commentaries from Logical Bible Study, go to: <a href=\"https://mysoundwise.com/publishers/1677296682850p\" rel=\"nofollow\">\u2060\u2060\u2060\u2060https://mysoundwise.com/publishers/1677296682850p</a></p><br/><p><br /></p><br/><p>Luke 14: 15-24 - &#39;None of those who were invited shall have a taste of my banquet.&#39;</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "4rTtTrM4RaAIbsJT6uBHIw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Tuesday of Week 31 in Ordinary Time - Luke 14: 15-24",
+    "release_date": "2023-11-06",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4rTtTrM4RaAIbsJT6uBHIw"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3r8tXmjmWeNXY6AnryOUxz/clip_129900_188900.mp3",
+    "description": "Today, Fr. Mike discusses the confidence that faith in God can provide as we fight the battles of our lives. He also engages with the riddles found in Wisdom 10 and points out that we can now not only understand the characters, stories, and allusions of Scripture, but can recognize the fingerprints of God in the world around us and better understand the main character of Scripture: God. Today\u2019s readings are 2 Maccabees 10, Wisdom 9-10, and Proverbs 25:4-7. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1231908,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6KFEJe4utzztNXs8QISG13"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6KFEJe4utzztNXs8QISG13",
+    "html_description": "<p>Today, Fr. Mike discusses the confidence that faith in God can provide as we fight the battles of our lives. He also engages with the riddles found in Wisdom 10 and points out that we can now not only understand the characters, stories, and allusions of Scripture, but can recognize the fingerprints of God in the world around us and better understand the main character of Scripture: God. Today\u2019s readings are 2 Maccabees 10, Wisdom 9-10, and Proverbs 25:4-7.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6KFEJe4utzztNXs8QISG13",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 307: Courage in Battle (2023)",
+    "release_date": "2023-11-03",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6KFEJe4utzztNXs8QISG13"
+}

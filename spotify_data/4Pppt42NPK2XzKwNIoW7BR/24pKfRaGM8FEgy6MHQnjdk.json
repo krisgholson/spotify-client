@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6q1GIqwacnA9eCPQjPyToZ/clip_1497300_1573450.mp3",
+    "description": "As we begin reading the Book of Zephaniah, Fr. Mike draws our attention to the first five accusations Zephaniah declares against the people of Judah; idolatry, lack of prayer, poor leadership, superstitions, and lack of belief in God's judgment. Today we read Isaiah 28-29, Zephaniah 1-2, and Proverbs 11:9-12. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1928280,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/24pKfRaGM8FEgy6MHQnjdk"
+    },
+    "href": "https://api.spotify.com/v1/episodes/24pKfRaGM8FEgy6MHQnjdk",
+    "html_description": "<p>As we begin reading the Book of Zephaniah, Fr. Mike draws our attention to the first five accusations Zephaniah declares against the people of Judah; idolatry, lack of prayer, poor leadership, superstitions, and lack of belief in God&#39;s judgment. Today we read Isaiah 28-29, Zephaniah 1-2, and Proverbs 11:9-12.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "24pKfRaGM8FEgy6MHQnjdk",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 204: Zephaniah's Warnings (2023)",
+    "release_date": "2023-07-23",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:24pKfRaGM8FEgy6MHQnjdk"
+}

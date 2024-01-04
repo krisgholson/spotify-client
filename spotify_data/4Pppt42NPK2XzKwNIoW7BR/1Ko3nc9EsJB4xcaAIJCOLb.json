@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6pqLkMnBzMBuKcqXvTd7tw/clip_851800_921400.mp3",
+    "description": "Fr. Mike highlights the reality of sin and our capacity to choose hell as we read about Jesus' teachings on temptations, divorce, and wealth. Jesus' teachings can be challenging, but following him is the path to true holiness. Today we read Mark 9-10 and Psalm 29. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1724447,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1Ko3nc9EsJB4xcaAIJCOLb"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1Ko3nc9EsJB4xcaAIJCOLb",
+    "html_description": "<p>Fr. Mike highlights the reality of sin and our capacity to choose hell as we read about Jesus&#39; teachings on temptations, divorce, and wealth. Jesus&#39; teachings can be challenging, but following him is the path to true holiness. Today we read Mark 9-10 and Psalm 29.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1Ko3nc9EsJB4xcaAIJCOLb",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 158: The Reality of Sin (2023)",
+    "release_date": "2023-06-07",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1Ko3nc9EsJB4xcaAIJCOLb"
+}

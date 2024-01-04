@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1rH6Do2WNpNOO1aTnBQXdY/clip_253600_299400.mp3",
+    "description": "Today we conclude the book of Acts, and Fr. Mike reflects on our deep conviction to be the Church by serving all in the world, furthuring St. Paul\u2019s legacy of ordinary service, a willingness to share the gospel, and a dedication to following God\u2019s will. Today\u2019s readings are Acts 28, Philippians 1-2, and Proverbs 29:25-27. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1387676,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5ESneFM9iXvDF5jyx0daAd"
+    },
+    "href": "https://api.spotify.com/v1/episodes/5ESneFM9iXvDF5jyx0daAd",
+    "html_description": "<p>Today we conclude the book of Acts, and Fr. Mike reflects on our deep conviction to be the Church by serving all in the world, furthuring St. Paul\u2019s legacy of ordinary service, a willingness to share the gospel, and a dedication to following God\u2019s will. Today\u2019s readings are Acts 28, Philippians 1-2, and Proverbs 29:25-27.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "5ESneFM9iXvDF5jyx0daAd",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 349: Holy Indifference (2022)",
+    "release_date": "2022-12-15",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:5ESneFM9iXvDF5jyx0daAd"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1UQitHhyydFIY12MQOzGCQ/clip_1169700_1216700.mp3",
+    "description": "Today we read about the moment David is made king over all Israel. Fr. Mike reveals that as David begins his rule, he has both strengths and weaknesses. Today we read 2 Samuel 5, 1 Chronicles 7-8, and Psalm 27. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1394860,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2ynBLySmKTJxwcp7pCmtCN"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2ynBLySmKTJxwcp7pCmtCN",
+    "html_description": "<p>Today we read about the moment David is made king over all Israel. Fr. Mike reveals that as David begins his rule, he has both strengths and weaknesses. Today we read 2 Samuel 5, 1 Chronicles 7-8, and Psalm 27.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2ynBLySmKTJxwcp7pCmtCN",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 124: King David Rules (2023)",
+    "release_date": "2023-05-04",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2ynBLySmKTJxwcp7pCmtCN"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/234cmaowoRMG0r1foD1bbu/clip_769480_824400.mp3",
+    "description": "Fr. Mike dives into the fall of Babylon described in Revelation 18, pointing out how several images and expressions of this key chapter are taken from the judgmental oracles in the old testament, particularly those from the prophet Jeremiah. Fr. Mike also emphasizes the reality of God\u2019s judgment, the resurrection of the dead, and how Christ\u2019s sacrifice is presented to God in the heavenly sanctuary once and for all. Today we read Revelation 18-20, Hebrews 9-10, and Proverbs 31:26-29. Unlock the full experience of The Bible in a Year (with Father Mike Schmitz) with the Ascension App!  (https://link.ascension-app.com/fRv0ZJ4OMDb)Get access to an interactive reading plan, the complete text of the Bible, episode transcripts, summaries, and more. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1710184,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4ZGIrWYDaj4NWuBHbWC126"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4ZGIrWYDaj4NWuBHbWC126",
+    "html_description": "<p>Fr. Mike dives into the fall of Babylon described in Revelation 18, pointing out how several images and expressions of this key chapter are taken from the judgmental oracles in the old testament, particularly those from the prophet Jeremiah. Fr. Mike also emphasizes the reality of God\u2019s judgment, the resurrection of the dead, and how Christ\u2019s sacrifice is presented to God in the heavenly sanctuary once and for all. Today we read Revelation 18-20, Hebrews 9-10, and Proverbs 31:26-29.</p><br/><p>Unlock the full experience of The Bible in a Year (with Father Mike Schmitz) with the <a href=\"https://link.ascension-app.com/fRv0ZJ4OMDb\" rel=\"nofollow\">Ascension App! </a>Get access to an interactive reading plan, the complete text of the Bible, episode transcripts, summaries, and more.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4ZGIrWYDaj4NWuBHbWC126",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 364: Christ's Sacrifice Once for All (2023)",
+    "release_date": "2023-12-30",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4ZGIrWYDaj4NWuBHbWC126"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3eUKW8Dv2xEHc01WRF18Wb/clip_954300_1009500.mp3",
+    "description": "As we begin our reading of the book Joshua, Fr. Mike draws our attention to God's power as he parts the waters of the Jordan river, allowing the Israelites to walk across on dry land. We learn that following God often requires great courage and trust. Today's readings are Joshua 1-4, and Psalm 123. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1303693,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5mwoMFYT8MUw8WUH4JVZKV"
+    },
+    "href": "https://api.spotify.com/v1/episodes/5mwoMFYT8MUw8WUH4JVZKV",
+    "html_description": "<p>As we begin our reading of the book Joshua, Fr. Mike draws our attention to God&#39;s power as he parts the waters of the Jordan river, allowing the Israelites to walk across on dry land. We learn that following God often requires great courage and trust. Today&#39;s readings are Joshua 1-4, and Psalm 123.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "5mwoMFYT8MUw8WUH4JVZKV",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 81: Israel Crosses the Jordan (2022)",
+    "release_date": "2022-03-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:5mwoMFYT8MUw8WUH4JVZKV"
+}

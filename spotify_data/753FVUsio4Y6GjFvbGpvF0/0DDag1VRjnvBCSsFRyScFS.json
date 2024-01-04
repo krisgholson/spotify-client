@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5MAsFfMjszvTT9zhIASr0C/clip_976150_1033150.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Matthew 24: 37-44 - 'The Son of Man is coming at an hour you do not expect.'  Catechism of the Catholic Church Paragraphs: - 673 (In 'The glorious advent of Christ, the hope of Israel') - Since the Ascension Christ\u2019s coming in glory has been imminent, even though \u201cit is not for you to know times or seasons which the Father has fixed by his own authority.\u201d This eschatological coming could be accomplished at any moment, even if both it and the final trial that will precede it are \u201cdelayed.\u201d  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1960460,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0DDag1VRjnvBCSsFRyScFS"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0DDag1VRjnvBCSsFRyScFS",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Matthew 24: 37-44 - &#39;The Son of Man is coming at an hour you do not expect.&#39;</p><br/><p><br /></p><br/><p>Catechism of the Catholic Church Paragraphs:</p><br/><p>- 673 (In &#39;The glorious advent of Christ, the hope of Israel&#39;) - Since the Ascension Christ\u2019s coming in glory has been imminent, even though \u201cit is not for you to know times or seasons which the Father has fixed by his own authority.\u201d This eschatological coming could be accomplished at any moment, even if both it and the final trial that will precede it are \u201cdelayed.\u201d</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "0DDag1VRjnvBCSsFRyScFS",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "1st Sunday of Advent (Year A) - Matt 24: 37-44",
+    "release_date": "2022-11-26",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0DDag1VRjnvBCSsFRyScFS"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/10exKByKQsvxVdIzUhxgLi/clip_361400_423000.mp3",
+    "description": "Fr. Mike talks about the horrible things that can happen when we turn away from God and stop asking him \"what's the next step?\" In today's readings we see David humbled and humiliated, Absalom revealing how devastating sin is, and the evil that comes from war. Today's readings are 2 Samuel 16, 1 Chronicles 21, and Psalm 15. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1105293,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/39b3x95rg963VamevnyOfq"
+    },
+    "href": "https://api.spotify.com/v1/episodes/39b3x95rg963VamevnyOfq",
+    "html_description": "<p>Fr. Mike talks about the horrible things that can happen when we turn away from God and stop asking him &#34;what&#39;s the next step?&#34; In today&#39;s readings we see David humbled and humiliated, Absalom revealing how devastating sin is, and the evil that comes from war. Today&#39;s readings are 2 Samuel 16, 1 Chronicles 21, and Psalm 15.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "39b3x95rg963VamevnyOfq",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 134: Devastating Effects of Sin (2023)",
+    "release_date": "2023-05-14",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:39b3x95rg963VamevnyOfq"
+}

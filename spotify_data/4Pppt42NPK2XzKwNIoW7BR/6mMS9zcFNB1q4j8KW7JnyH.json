@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7gIOXMkuU0sLBe3Yqo4viK/clip_576900_640600.mp3",
+    "description": "Welcome to the second Messianic Checkpoint! Jeff Cavins joins Fr. Mike to introduce the Gospel of Mark and discuss how this short Gospel helps us understand both the identity and mission of Jesus.  For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1562017,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6mMS9zcFNB1q4j8KW7JnyH"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6mMS9zcFNB1q4j8KW7JnyH",
+    "html_description": "<p>Welcome to the second Messianic Checkpoint! Jeff Cavins joins Fr. Mike to introduce the Gospel of Mark and discuss how this short Gospel helps us understand both the identity and mission of Jesus. </p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6mMS9zcFNB1q4j8KW7JnyH",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Messianic Checkpoint: The Gospel of Mark (with Jeff Cavins) - 2022",
+    "release_date": "2022-06-03",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6mMS9zcFNB1q4j8KW7JnyH"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5iaA7CxVHdVUrYi8LSEQ4C/clip_428000_483500.mp3",
+    "description": "Fr. Mike explains the context of the book of Baruch, he also highlights Isaiah's warning against complacency and how God's justice applies to everyone, even those who don't believe in Him. The readings are Isaiah 32-33, Baruch 1-2, and Proverbs 11:17-20. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1516303,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1pbaPS50bxJbzr39NhRnPV"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1pbaPS50bxJbzr39NhRnPV",
+    "html_description": "<p>Fr. Mike explains the context of the book of Baruch, he also highlights Isaiah&#39;s warning against complacency and how God&#39;s justice applies to everyone, even those who don&#39;t believe in Him. The readings are Isaiah 32-33, Baruch 1-2, and Proverbs 11:17-20.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1pbaPS50bxJbzr39NhRnPV",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 206: The Book of Baruch (2022)",
+    "release_date": "2022-07-25",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1pbaPS50bxJbzr39NhRnPV"
+}

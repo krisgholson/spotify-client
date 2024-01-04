@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5k4jZYmmZlG9zKh1sk19g2/clip_1224300_1298700.mp3",
+    "description": "Fr. Mike reveals yet another prophetic message that points towards the coming of Christ, explaining why the Book of Isaiah is often called the Book of Woe and the Book of Consolation. He also touches on the powerful prayer we hear as we end our journey with Tobit. Today's readings are Isaiah 11-13, Tobit 13-14, and Proverbs 10:13-16. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1408078,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3EYQDUhNxmLRpVhfGLy9G6"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3EYQDUhNxmLRpVhfGLy9G6",
+    "html_description": "<p>Fr. Mike reveals yet another prophetic message that points towards the coming of Christ, explaining why the Book of Isaiah is often called the Book of Woe and the Book of Consolation. He also touches on the powerful prayer we hear as we end our journey with Tobit. Today&#39;s readings are Isaiah 11-13, Tobit 13-14, and Proverbs 10:13-16.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3EYQDUhNxmLRpVhfGLy9G6",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 197: Woe and Consolation (2022)",
+    "release_date": "2022-07-16",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3EYQDUhNxmLRpVhfGLy9G6"
+}

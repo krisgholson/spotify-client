@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0utmsjuBo5HixgavGEDcAE/clip_518700_573400.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Luke 17: 5-10 - 'Say, 'We are merely servants.'  Catechism of the Catholic Church Paragraphs: - 162 (In 'Perseverance in Faith) - Faith is an entirely free gift that God makes to man. We can lose this priceless gift, as St. Paul indicated to St. Timothy: \u201cWage the good warfare, holding faith and a good conscience. By rejecting conscience, certain persons have made shipwreck of their faith.\u201d To live, grow, and persevere in the faith until the end we must nourish it with the word of God; we must beg the Lord to increase our faith; it must be \u201cworking through charity,\u201d abounding in hope, and rooted in the faith of the Church.  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 837497,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3rQaMOim8FRMsATpsOndDO"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3rQaMOim8FRMsATpsOndDO",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Luke 17: 5-10 - &#39;Say, &#39;We are merely servants.&#39;</p><br/><p><br /></p><br/><p>Catechism of the Catholic Church Paragraphs:</p><br/><p>- 162 (In &#39;Perseverance in Faith) - Faith is an entirely free gift that God makes to man. We can lose this priceless gift, as St. Paul indicated to St. Timothy: \u201cWage the good warfare, holding faith and a good conscience. By rejecting conscience, certain persons have made shipwreck of their faith.\u201d To live, grow, and persevere in the faith until the end we must nourish it with the word of God; we must beg the Lord to increase our faith; it must be \u201cworking through charity,\u201d abounding in hope, and rooted in the faith of the Church.</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "3rQaMOim8FRMsATpsOndDO",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "27th Sunday in Ordinary Time (Year C) - Luke 17: 5-10",
+    "release_date": "2022-10-01",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3rQaMOim8FRMsATpsOndDO"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3a11dzR18Wi3NdopTjBpcN/clip_1220000_1286000.mp3",
+    "description": "As we continue along the path of our forefathers in faith, Fr. Mike reminds us that we live in the same era as the Apostles and have the same Holy Spirit. Just like St. Paul stood out by imitating Jesus and sharing the Gospel, we are called to do the same. Fr. Mike also discusses our duality as both body and soul as it relates to Christ\u2019s resurrection. Today\u2019s readings are Acts 17, 1 Corinthians 15, and Proverbs 28:16-18. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1304084,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4g6iwxogmqO85jBBPZltcU"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4g6iwxogmqO85jBBPZltcU",
+    "html_description": "<p>As we continue along the path of our forefathers in faith, Fr. Mike reminds us that we live in the same era as the Apostles and have the same Holy Spirit. Just like St. Paul stood out by imitating Jesus and sharing the Gospel, we are called to do the same. Fr. Mike also discusses our duality as both body and soul as it relates to Christ\u2019s resurrection. Today\u2019s readings are Acts 17, 1 Corinthians 15, and Proverbs 28:16-18.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4g6iwxogmqO85jBBPZltcU",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 338: Death Defeated (2022)",
+    "release_date": "2022-12-04",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4g6iwxogmqO85jBBPZltcU"
+}

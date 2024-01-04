@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Y3JhXRKX12JtOkpyT5NZH/clip_225700_272600.mp3",
+    "description": "Fr. Mike discusses the ministry of the apostles and encourages us to allow God to work in our lives in the same way. He also reminds us that through Baptism, we are set free from our fallen human nature and given the freedom to live according to the spirit. Today\u2019s readings are from Acts 5, Romans 8, and Proverbs 27:7-9. If you have found this podcast to be helpful in your faith life and would like to help us continue bringing this Catholic media to as many people as possible, please consider making an ongoing financial gift at ascensionpress.com/support. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1522337,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7Ib9M8DoW51QhmjU8RGP4L"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7Ib9M8DoW51QhmjU8RGP4L",
+    "html_description": "<p>Fr. Mike discusses the ministry of the apostles and encourages us to allow God to work in our lives in the same way. He also reminds us that through Baptism, we are set free from our fallen human nature and given the freedom to live according to the spirit. Today\u2019s readings are from Acts 5, Romans 8, and Proverbs 27:7-9.</p><br/><p>If you have found this podcast to be helpful in your faith life and would like to help us continue bringing this Catholic media to as many people as possible, please consider making an ongoing financial gift at ascensionpress.com/support.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7Ib9M8DoW51QhmjU8RGP4L",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 326: Life in the Spirit (2023)",
+    "release_date": "2023-11-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7Ib9M8DoW51QhmjU8RGP4L"
+}

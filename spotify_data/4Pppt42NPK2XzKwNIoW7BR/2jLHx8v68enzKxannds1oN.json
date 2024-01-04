@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3nsP92FpJPkE53lRz5RbCm/clip_1195200_1250200.mp3",
+    "description": "Fr. Mike points out how Jehu followed God half-way, but God wants us to follow Him with our whole hearts. He also explains the prophecy of Amos, who is trying to call people back to the Lord before it is too late. The readings for today are 2 Kings 10, Amos 1-3, and Psalm 110. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1388617,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2jLHx8v68enzKxannds1oN"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2jLHx8v68enzKxannds1oN",
+    "html_description": "<p>Fr. Mike points out how Jehu followed God half-way, but God wants us to follow Him with our whole hearts. He also explains the prophecy of Amos, who is trying to call people back to the Lord before it is too late. The readings for today are 2 Kings 10, Amos 1-3, and Psalm 110.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2jLHx8v68enzKxannds1oN",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 178: Called Back (2022)",
+    "release_date": "2022-06-27",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2jLHx8v68enzKxannds1oN"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6KMaPUKzVxCKc2ISIEvGUw/clip_264117_324117.mp3",
+    "description": "Want to support the \u00a0ministry and get access to exclusive content? Go to: http://patreon.com/logicalbiblestudy  John 8: 12-20 - 'I am the light of the world.'  Catechism of the Catholic Church Paragraphs: - 2466 (in 'Living in the Truth') - In Jesus Christ, the whole of God's truth has been made manifest. \"Full of grace and truth,\" he came as the \"light of the world,\" he is the Truth. \"Whoever believes in me may not remain in darkness\" (abbreviated).  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1088365,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1Ki8tDVaZXi0xRg1voWHzt"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1Ki8tDVaZXi0xRg1voWHzt",
+    "html_description": "<p>Want to support the \u00a0ministry and get access to exclusive content? Go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>John 8: 12-20 - &#39;I am the light of the world.&#39;</p><br/><p><br /></p><br/><p>Catechism of the Catholic Church Paragraphs:</p><br/><p>- 2466 (in &#39;Living in the Truth&#39;) - In Jesus Christ, the whole of God&#39;s truth has been made manifest. &#34;Full of grace and truth,&#34; he came as the &#34;light of the world,&#34; he is the Truth. &#34;Whoever believes in me may not remain in darkness&#34; (abbreviated).</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "1Ki8tDVaZXi0xRg1voWHzt",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Monday of Week 5 of Lent (Year C) - John 8: 12-20",
+    "release_date": "2022-04-03",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1Ki8tDVaZXi0xRg1voWHzt"
+}

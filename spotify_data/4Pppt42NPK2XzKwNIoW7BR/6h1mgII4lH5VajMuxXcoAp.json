@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Qb6JnuosObTgQ9ZdBIV4A/clip_176600_236100.mp3",
+    "description": "As we continue to follow the missions of Paul and Barnabas, Fr. Mike highlights the fickle nature of humanity and the futility of striving for the praise of men. He also encourages us to remain courageous in the tribulations we face, finding strength in other believers, and running toward the eternal and imperishable goal of salvation. Today\u2019s readings are Acts 14, 1 Corinthians 9-10, and Proverbs 28:7-9. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1356251,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6h1mgII4lH5VajMuxXcoAp"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6h1mgII4lH5VajMuxXcoAp",
+    "html_description": "<p>As we continue to follow the missions of Paul and Barnabas, Fr. Mike highlights the fickle nature of humanity and the futility of striving for the praise of men. He also encourages us to remain courageous in the tribulations we face, finding strength in other believers, and running toward the eternal and imperishable goal of salvation. Today\u2019s readings are Acts 14, 1 Corinthians 9-10, and Proverbs 28:7-9.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6h1mgII4lH5VajMuxXcoAp",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 335: Run the Race (2023)",
+    "release_date": "2023-12-01",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6h1mgII4lH5VajMuxXcoAp"
+}

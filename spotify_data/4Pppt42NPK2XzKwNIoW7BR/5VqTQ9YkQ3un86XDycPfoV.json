@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6P5TjQffKfr0qBfaTEkYWm/clip_1557400_1600400.mp3",
+    "description": "Congratulations, you've made it about halfway through the Bible in a Year journey! Today, we read again about king Ahaz's unfaithfulness in 2 Kings. We are also introduced to the prophet Micah, who is all about judgement and hope, and we read one of Fr. Mike's favorite psalms. Today's readings are 2 Kings 16, Micah 1-4, and Psalm 139. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1624006,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5VqTQ9YkQ3un86XDycPfoV"
+    },
+    "href": "https://api.spotify.com/v1/episodes/5VqTQ9YkQ3un86XDycPfoV",
+    "html_description": "<p>Congratulations, you&#39;ve made it about halfway through the Bible in a Year journey! Today, we read again about king Ahaz&#39;s unfaithfulness in 2 Kings. We are also introduced to the prophet Micah, who is all about judgement and hope, and we read one of Fr. Mike&#39;s favorite psalms. Today&#39;s readings are 2 Kings 16, Micah 1-4, and Psalm 139.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "5VqTQ9YkQ3un86XDycPfoV",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 182: The Inescapable God (2023)",
+    "release_date": "2023-07-01",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:5VqTQ9YkQ3un86XDycPfoV"
+}

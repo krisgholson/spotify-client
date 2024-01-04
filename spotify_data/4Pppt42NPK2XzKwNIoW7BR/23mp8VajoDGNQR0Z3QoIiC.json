@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/58cfsKwJXJQhKcKx9oURk4/clip_1213200_1260100.mp3",
+    "description": "Fr. Mike points out the secrecy in Judas' life, and highlights Jesus' words of conviction to the disciples before his death on the cross. He also explains how important it is to bring Jesus into our temptation, and to not hide our hearts from him like Judas did. Today's readings are John 13-15 and Proverbs 6:6-11. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1290475,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/23mp8VajoDGNQR0Z3QoIiC"
+    },
+    "href": "https://api.spotify.com/v1/episodes/23mp8VajoDGNQR0Z3QoIiC",
+    "html_description": "<p>Fr. Mike points out the secrecy in Judas&#39; life, and highlights Jesus&#39; words of conviction to the disciples before his death on the cross. He also explains how important it is to bring Jesus into our temptation, and to not hide our hearts from him like Judas did. Today&#39;s readings are John 13-15 and Proverbs 6:6-11.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "23mp8VajoDGNQR0Z3QoIiC",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 103: Judas' Secrecy (2023)",
+    "release_date": "2023-04-13",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:23mp8VajoDGNQR0Z3QoIiC"
+}

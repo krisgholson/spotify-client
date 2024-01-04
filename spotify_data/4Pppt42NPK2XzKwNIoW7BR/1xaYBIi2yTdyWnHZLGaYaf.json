@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/28mOl0uoqno1PXjqMs34HF/clip_232200_299600.mp3",
+    "description": "As Fr. Mike reads from Nehemiah today, we hear about how the hearts of the people of Israel were moved as Ezra reads the book of the law of Moses to them. In our reading of Esther, we have the beginning of the crisis that will unfold throughout the book as Haman, backed by the king, seeks to destroy the Jews.  Today\u2019s readings are Nehemiah 8, Esther 3 and 13, and Proverbs 21:5-8. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1099284,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1xaYBIi2yTdyWnHZLGaYaf"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1xaYBIi2yTdyWnHZLGaYaf",
+    "html_description": "<p>As Fr. Mike reads from Nehemiah today, we hear about how the hearts of the people of Israel were moved as Ezra reads the book of the law of Moses to them. In our reading of Esther, we have the beginning of the crisis that will unfold throughout the book as Haman, backed by the king, seeks to destroy the Jews.  Today\u2019s readings are Nehemiah 8, Esther 3 and 13, and Proverbs 21:5-8.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1xaYBIi2yTdyWnHZLGaYaf",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 276: Haman's Plan (2022)",
+    "release_date": "2022-10-03",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1xaYBIi2yTdyWnHZLGaYaf"
+}

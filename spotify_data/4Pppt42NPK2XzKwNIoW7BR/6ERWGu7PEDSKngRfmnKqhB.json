@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4pTfNKaMhhBKhHfHFIHO6l/clip_841400_886700.mp3",
+    "description": "Fr. Mike connects today's reading from Songs to the teachings of St. John Paul's Theology of the Body. He also points out how helpful it is to track the timelines of the kings of Israel and Judah as we read from Kings and Chronicles simultaneously. The readings are 1 Kings 15-16, 2 Chronicles 16-17, and Song of Solomon 4. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1568470,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6ERWGu7PEDSKngRfmnKqhB"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6ERWGu7PEDSKngRfmnKqhB",
+    "html_description": "<p>Fr. Mike connects today&#39;s reading from Songs to the teachings of St. John Paul&#39;s Theology of the Body. He also points out how helpful it is to track the timelines of the kings of Israel and Judah as we read from Kings and Chronicles simultaneously. The readings are 1 Kings 15-16, 2 Chronicles 16-17, and Song of Solomon 4.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6ERWGu7PEDSKngRfmnKqhB",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 165: The Lover and the Beloved (2023)",
+    "release_date": "2023-06-14",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6ERWGu7PEDSKngRfmnKqhB"
+}

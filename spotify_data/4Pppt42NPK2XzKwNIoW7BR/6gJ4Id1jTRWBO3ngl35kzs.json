@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7g10u98JapIH1eXbrrVpZq/clip_664600_722100.mp3",
+    "description": "Fr. Mike focuses on the story of Philip and the Ethiopian Eunuch and how it demonstrates the importance of having guidance when reading Scripture. Although God's Word is infallible, we can easily misunderstand it without proper interpretation, which is why we have the Magisterium of the Church.  Lastly, Fr. Mike also touches on the role of persecution in the life of the Church, and St. Paul's encouragement to abide by the law of love. Today we read Acts 8, Romans 13-14, and Proverbs 27:15-17. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1217750,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6gJ4Id1jTRWBO3ngl35kzs"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6gJ4Id1jTRWBO3ngl35kzs",
+    "html_description": "<p>Fr. Mike focuses on the story of Philip and the Ethiopian Eunuch and how it demonstrates the importance of having guidance when reading Scripture. Although God&#39;s Word is infallible, we can easily misunderstand it without proper interpretation, which is why we have the Magisterium of the Church.  Lastly, Fr. Mike also touches on the role of persecution in the life of the Church, and St. Paul&#39;s encouragement to abide by the law of love. Today we read Acts 8, Romans 13-14, and Proverbs 27:15-17.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6gJ4Id1jTRWBO3ngl35kzs",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 329: The Ethiopian Eunuch (2023)",
+    "release_date": "2023-11-25",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6gJ4Id1jTRWBO3ngl35kzs"
+}

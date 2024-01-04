@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7FAbbwAKbDmMMMrgjeohSA/clip_853500_909900.mp3",
+    "description": "Fr. Mike highlights a secret to holiness visible in Paul\u2019s ability to see his arduous trip to Rome as the will of God. He also clears up confusion in regards to Paul\u2019s direction for wives to be subject to their husbands, again drawing our attention to our call to love and serve while being subject to each other out of reverence for Christ. Today\u2019s readings are Acts 27, Ephesians 4-6, and Proverbs 29:22-24. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1523304,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/44vBF6anPSOEiXCJfcKxCr"
+    },
+    "href": "https://api.spotify.com/v1/episodes/44vBF6anPSOEiXCJfcKxCr",
+    "html_description": "<p>Fr. Mike highlights a secret to holiness visible in Paul\u2019s ability to see his arduous trip to Rome as the will of God. He also clears up confusion in regards to Paul\u2019s direction for wives to be subject to their husbands, again drawing our attention to our call to love and serve while being subject to each other out of reverence for Christ. Today\u2019s readings are Acts 27, Ephesians 4-6, and Proverbs 29:22-24.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "44vBF6anPSOEiXCJfcKxCr",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 348: Rules for the New Life (2023)",
+    "release_date": "2023-12-14",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:44vBF6anPSOEiXCJfcKxCr"
+}

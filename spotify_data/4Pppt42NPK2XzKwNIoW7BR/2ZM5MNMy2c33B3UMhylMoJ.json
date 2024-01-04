@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/78fuen43iYP7Gs2218eCGU/clip_1041300_1089200.mp3",
+    "description": "Fr. Mike marvels at the beauty of Isaiah 53, which reveals that Jesus is the Lord's suffering servant and also zeroes in on Ezekiel 15, which reminds us that without God we are like a useless vine that bears no fruit. Today we read Isaiah 53-54, Ezekiel 14-15, and Proverbs 12:25-28. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1260773,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2ZM5MNMy2c33B3UMhylMoJ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2ZM5MNMy2c33B3UMhylMoJ",
+    "html_description": "<p>Fr. Mike marvels at the beauty of Isaiah 53, which reveals that Jesus is the Lord&#39;s suffering servant and also zeroes in on Ezekiel 15, which reminds us that without God we are like a useless vine that bears no fruit. Today we read Isaiah 53-54, Ezekiel 14-15, and Proverbs 12:25-28.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2ZM5MNMy2c33B3UMhylMoJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 216: The Suffering Servant (2023)",
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2ZM5MNMy2c33B3UMhylMoJ"
+}

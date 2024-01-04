@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3r1BfDnRlmZoyvukmF0T4v/clip_1115700_1168900.mp3",
+    "description": "Fr. Mike looks at Joash's downfall and disobedience after the death of Jehoida. We learn how important it is to have good mentors in our lives who keep us grounded in the faith. Fr. Mike also emphasizes the significance of Psalm 69 and how to properly interpret it. Today's readings are 2 Kings 1, 2 Chronicles 24, and Psalm 69. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1243742,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7mgVwKQRQ3KJ6Ay5l2RFh2"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7mgVwKQRQ3KJ6Ay5l2RFh2",
+    "html_description": "<p>Fr. Mike looks at Joash&#39;s downfall and disobedience after the death of Jehoida. We learn how important it is to have good mentors in our lives who keep us grounded in the faith. Fr. Mike also emphasizes the significance of Psalm 69 and how to properly interpret it. Today&#39;s readings are 2 Kings 1, 2 Chronicles 24, and Psalm 69.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7mgVwKQRQ3KJ6Ay5l2RFh2",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 170:  Joash's Downfall (2023)",
+    "release_date": "2023-06-19",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7mgVwKQRQ3KJ6Ay5l2RFh2"
+}

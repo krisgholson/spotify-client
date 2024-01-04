@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0TES5ufwqRgHxoT7Zm78aw/clip_769300_819000.mp3",
+    "description": "Fr. Mike explains the importance of wisdom in our everyday lives when we face temptations to gossip, encouraging us in the battle for virtue, wisdom, and goodness. He emphasizes that we must ask the Lord for his wisdom to guide us as we interact with the people around us, just like the Jews prayed before battle. Today\u2019s readings are 1 Maccabees 7, Sirach 19-21, and Proverbs 22:22-25. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1426233,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3g9lnFOHBgP1spTLKsQPhQ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3g9lnFOHBgP1spTLKsQPhQ",
+    "html_description": "<p>Fr. Mike explains the importance of wisdom in our everyday lives when we face temptations to gossip, encouraging us in the battle for virtue, wisdom, and goodness. He emphasizes that we must ask the Lord for his wisdom to guide us as we interact with the people around us, just like the Jews prayed before battle. Today\u2019s readings are 1 Maccabees 7, Sirach 19-21, and Proverbs 22:22-25.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3g9lnFOHBgP1spTLKsQPhQ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 288: Battling Against Gossip (2022)",
+    "release_date": "2022-10-15",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3g9lnFOHBgP1spTLKsQPhQ"
+}

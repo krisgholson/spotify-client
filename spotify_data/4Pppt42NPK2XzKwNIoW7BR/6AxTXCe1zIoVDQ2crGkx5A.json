@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0bOeO7Eqh0vWBCtn8X98LP/clip_833400_904100.mp3",
+    "description": "In today's reading from Exodus 32, Fr. Mike shows us how when we become uncertain, we immediate try to take control of the situation, and build up idols in our hearts. We also read Leviticus 23 and Psalm 79. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1431092,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6AxTXCe1zIoVDQ2crGkx5A"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6AxTXCe1zIoVDQ2crGkx5A",
+    "html_description": "<p>In today&#39;s reading from Exodus 32, Fr. Mike shows us how when we become uncertain, we immediate try to take control of the situation, and build up idols in our hearts. We also read Leviticus 23 and Psalm 79.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6AxTXCe1zIoVDQ2crGkx5A",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 47: The Golden Calf (2023)",
+    "release_date": "2023-02-16",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6AxTXCe1zIoVDQ2crGkx5A"
+}

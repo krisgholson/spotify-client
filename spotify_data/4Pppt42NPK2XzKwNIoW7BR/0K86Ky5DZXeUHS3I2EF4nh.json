@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4FsXAYzbqJTm76mOklvRrT/clip_545100_609200.mp3",
+    "description": "Fr. Mike talks about the significance of God's covenant with Abram, and how it points to God's immense love for us. Today's readings are Genesis 14-15, Job 3-4, and Proverbs 1:8-19.  For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1123422,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0K86Ky5DZXeUHS3I2EF4nh"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0K86Ky5DZXeUHS3I2EF4nh",
+    "html_description": "<p>Fr. Mike talks about the significance of God&#39;s covenant with Abram, and how it points to God&#39;s immense love for us. Today&#39;s readings are Genesis 14-15, Job 3-4, and Proverbs 1:8-19. </p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0K86Ky5DZXeUHS3I2EF4nh",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 7: God's Covenant with Abram (2023)",
+    "release_date": "2023-01-07",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0K86Ky5DZXeUHS3I2EF4nh"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5DIKKIAvFbf7jSGobEAj8w/clip_613700_673700.mp3",
+    "description": "Fr. Mike guides us through Jesus' warning of persecution to the people of Israel as we near the end of Mark's Gospel. He also touches on how Jesus' behavior in the Garden of Gethsemane should serve as an example to us, and explains why Judas' betrayal was so heartbreaking. Today's readings are Mark 13-14 and Psalm 68. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1478817,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4dcNYayBYMNX1qD46gADUJ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4dcNYayBYMNX1qD46gADUJ",
+    "html_description": "<p>Fr. Mike guides us through Jesus&#39; warning of persecution to the people of Israel as we near the end of Mark&#39;s Gospel. He also touches on how Jesus&#39; behavior in the Garden of Gethsemane should serve as an example to us, and explains why Judas&#39; betrayal was so heartbreaking. Today&#39;s readings are Mark 13-14 and Psalm 68.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4dcNYayBYMNX1qD46gADUJ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 160: Jesus Warns the People (2022)",
+    "release_date": "2022-06-09",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4dcNYayBYMNX1qD46gADUJ"
+}

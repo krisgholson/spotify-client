@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/00h8pUT368STpoqqoEOK2R/clip_982800_1037800.mp3",
+    "description": "In Acts 24, Fr. Mike notes how Felix remained unmoved by Paul's teaching despite being compelled by it initially, showing us that unless we act on what we believe, there is no change. As we begin reading St.Paul's letter to the Galatians today, Fr. Mike highlights Paul's explanation of the role of Jewish law in the Age of the Church,  clarifying that through baptism, we are all one in Christ and heirs to the promises of the Father regardless of our backgrounds.  For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1351340,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3nXELBTfLlD91zLOEz5rRh"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3nXELBTfLlD91zLOEz5rRh",
+    "html_description": "<p>In Acts 24, Fr. Mike notes how Felix remained unmoved by Paul&#39;s teaching despite being compelled by it initially, showing us that unless we act on what we believe, there is no change. As we begin reading St.Paul&#39;s letter to the Galatians today, Fr. Mike highlights Paul&#39;s explanation of the role of Jewish law in the Age of the Church,  clarifying that through baptism, we are all one in Christ and heirs to the promises of the Father regardless of our backgrounds. </p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3nXELBTfLlD91zLOEz5rRh",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 345: One in Christ (2022)",
+    "release_date": "2022-12-11",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3nXELBTfLlD91zLOEz5rRh"
+}

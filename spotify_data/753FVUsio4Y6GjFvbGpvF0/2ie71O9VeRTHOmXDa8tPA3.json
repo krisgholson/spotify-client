@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0FIWPIdfuPxKgquljKMh4C/clip_1121850_1168750.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Luke 9: 11b-17 - 'The feeding of the five thousand.'  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1487214,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2ie71O9VeRTHOmXDa8tPA3"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2ie71O9VeRTHOmXDa8tPA3",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Luke 9: 11b-17 - &#39;The feeding of the five thousand.&#39;</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "2ie71O9VeRTHOmXDa8tPA3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Solemnity of Corpus Christi (Year C) - Luke 9: 10-17",
+    "release_date": "2022-06-15",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2ie71O9VeRTHOmXDa8tPA3"
+}

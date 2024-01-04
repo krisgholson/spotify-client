@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3fgJbUHkoe3LfK8pZYy4Sb/clip_750100_795700.mp3",
+    "description": "Fr. Mike walks us through the signing of the covenant in Nehemiah 10 and relates Israel\u2019s collective decision to belong to God to our personal encounters with God that inspire us to follow him simply because he has called us. He also offers insight on how God used the physical weakness of Esther to move the king\u2019s heart to gentleness. Today\u2019s readings are Nehemiah 10, Esther 15, 6-7, and Proverbs 21:13-16. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1258605,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1KkR7U9MxovSQLa5cTq7d3"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1KkR7U9MxovSQLa5cTq7d3",
+    "html_description": "<p>Fr. Mike walks us through the signing of the covenant in Nehemiah 10 and relates Israel\u2019s collective decision to belong to God to our personal encounters with God that inspire us to follow him simply because he has called us. He also offers insight on how God used the physical weakness of Esther to move the king\u2019s heart to gentleness. Today\u2019s readings are Nehemiah 10, Esther 15, 6-7, and Proverbs 21:13-16.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "1KkR7U9MxovSQLa5cTq7d3",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 278: Power in Weakness (2023)",
+    "release_date": "2023-10-05",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1KkR7U9MxovSQLa5cTq7d3"
+}

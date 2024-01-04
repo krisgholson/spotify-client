@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2fUFW7QxqWEfVuslFjYV2N/clip_836700_901600.mp3",
+    "description": "Today we begin two new books as we read 2 Samuel 1, 1 Chronicles 1, and Psalm 13. Fr. Mike shows us how nothing in scripture is wasted space, and also points out how, through God's grace, we can move past the things that have hurt us. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1130856,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0Z73j1vOQWlWOnMww6ZsXY"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0Z73j1vOQWlWOnMww6ZsXY",
+    "html_description": "<p>Today we begin two new books as we read 2 Samuel 1, 1 Chronicles 1, and Psalm 13. Fr. Mike shows us how nothing in scripture is wasted space, and also points out how, through God&#39;s grace, we can move past the things that have hurt us.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0Z73j1vOQWlWOnMww6ZsXY",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 120: David Mourns Saul (2022)",
+    "release_date": "2022-04-30",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0Z73j1vOQWlWOnMww6ZsXY"
+}

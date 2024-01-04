@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1pAZq1Op6HoZjP5sp2UuAJ/clip_1202900_1247800.mp3",
+    "description": "Reflecting on the stubbornness of the Israelites' hearts from today's readings, Fr. Mike teaches us that we cannot always trust our imperfect hearts, because they are not always aligned God's law and will, and they can often lead us into false worship. However, we can rely on God who promises to give us a new heart so that we can do what we ought. Today's readings are Jeremiah 7, Ezekiel 36, and Proverbs 14:29-32. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1535216,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4HDrIsUJY5CCWJeByYxXcc"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4HDrIsUJY5CCWJeByYxXcc",
+    "html_description": "<p>Reflecting on the stubbornness of the Israelites&#39; hearts from today&#39;s readings, Fr. Mike teaches us that we cannot always trust our imperfect hearts, because they are not always aligned God&#39;s law and will, and they can often lead us into false worship. However, we can rely on God who promises to give us a new heart so that we can do what we ought. Today&#39;s readings are Jeremiah 7, Ezekiel 36, and Proverbs 14:29-32.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4HDrIsUJY5CCWJeByYxXcc",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 230: A New Heart (2023)",
+    "release_date": "2023-08-18",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4HDrIsUJY5CCWJeByYxXcc"
+}

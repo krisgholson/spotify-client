@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6lGB0jWqsM43opG8jtiQhT/clip_216700_273400.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Luke 20: 27-38 - 'He is God, not of the dead, but of the living.'  Catechism of the Catholic Church Paragraphs: - 330 (In 'Who are Angels'?) - As purely spiritual creatures angels have intelligence and will: they are personal and immortal creatures, surpassing in perfection all visible creatures, as the splendor of their glory bears witness.  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1175440,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/53NKzcUInBjtns39BIvXeU"
+    },
+    "href": "https://api.spotify.com/v1/episodes/53NKzcUInBjtns39BIvXeU",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Luke 20: 27-38 - &#39;He is God, not of the dead, but of the living.&#39;</p><br/><p><br /></p><br/><p>Catechism of the Catholic Church Paragraphs:</p><br/><p>- 330 (In &#39;Who are Angels&#39;?) - As purely spiritual creatures angels have intelligence and will: they are personal and immortal creatures, surpassing in perfection all visible creatures, as the splendor of their glory bears witness.</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "53NKzcUInBjtns39BIvXeU",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "32nd Sunday in Ordinary Time (Year C) - Luke 20: 27-38",
+    "release_date": "2022-11-05",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:53NKzcUInBjtns39BIvXeU"
+}

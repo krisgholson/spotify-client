@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4cvTEVyZR7W7fxPkRFIsHv/clip_172900_235200.mp3",
+    "description": "Fr. Mike breaks down the dramatic events from our reading of 1 Maccabees today, including; Jonathan's new role as high priest, Demetrius' defeat in battle, and King Alexander Epiphanes formidable alliance with Egypt formed by marrying Cleopatra. In Sirach, Fr. Mike reminds us that the good qualities wives are called to possess are also applicable to husbands. Today we read 1 Maccabees 10, Sirach 26-27, and Proverbs 23:5-8. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1607157,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/45es7d4AZWUNIuG82dk1gi"
+    },
+    "href": "https://api.spotify.com/v1/episodes/45es7d4AZWUNIuG82dk1gi",
+    "html_description": "<p>Fr. Mike breaks down the dramatic events from our reading of 1 Maccabees today, including; Jonathan&#39;s new role as high priest, Demetrius&#39; defeat in battle, and King Alexander Epiphanes formidable alliance with Egypt formed by marrying Cleopatra. In Sirach, Fr. Mike reminds us that the good qualities wives are called to possess are also applicable to husbands. Today we read 1 Maccabees 10, Sirach 26-27, and Proverbs 23:5-8.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "45es7d4AZWUNIuG82dk1gi",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 291: The Rise of King Alexander (2023)",
+    "release_date": "2023-10-18",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:45es7d4AZWUNIuG82dk1gi"
+}

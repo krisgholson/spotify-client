@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6qPxrA9YLGcR2kl4Vfmn5m/clip_1198300_1247300.mp3",
+    "description": "To support the\u00a0ministry and access exclusive content, go to: \u2060\u2060http://patreon.com/logicalbiblestudy\u2060\u2060 For complete verse-by-verse audio commentaries from Logical Bible Study, go to: \u2060\u2060https://mysoundwise.com/publishers/1677296682850p  Matthew 20: 1-16 - 'Why be envious because I am generous?'  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1481154,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4B1win5FzigsmfGSNlZpmv"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4B1win5FzigsmfGSNlZpmv",
+    "html_description": "<p>To support the\u00a0ministry and access exclusive content, go to: <a href=\"https://www.patreon.com/logicalbiblestudy\" rel=\"nofollow\">\u2060\u2060http://patreon.com/logicalbiblestudy\u2060\u2060</a></p><br/><p>For complete verse-by-verse audio commentaries from Logical Bible Study, go to: <a href=\"https://mysoundwise.com/publishers/1677296682850p\" rel=\"nofollow\">\u2060\u2060https://mysoundwise.com/publishers/1677296682850p</a></p><br/><p><br /></p><br/><p>Matthew 20: 1-16 - &#39;Why be envious because I am generous?&#39;</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "4B1win5FzigsmfGSNlZpmv",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Wednesday of Week 20 in Ordinary Time - Matt 20: 1-16",
+    "release_date": "2023-08-22",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4B1win5FzigsmfGSNlZpmv"
+}

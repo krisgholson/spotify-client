@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4f5NqCWOTE8sKhSILpg1lM/clip_549742_609742.mp3",
+    "description": "To support the Logical Bible Study Ministry, please go to: http://patreon.com/logicalbiblestudy  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 751305,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1vF7nDFrhJEs7elbgmJ3Ho"
+    },
+    "href": "https://api.spotify.com/v1/episodes/1vF7nDFrhJEs7elbgmJ3Ho",
+    "html_description": "<p>To support the Logical Bible Study Ministry, please go to:<br /><br/>http://patreon.com/logicalbiblestudy</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "1vF7nDFrhJEs7elbgmJ3Ho",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/87b71c308a1fc07a47692f585d73f49a23cac6d8",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/4111943dec5eca29372aee1c85d926794608e061",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/73fb3c0e9b3dec80877f5bbc01de3730fb1cee15",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "Logical Bible Study - Support & Exclusive Content",
+    "release_date": "2020-12-31",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:1vF7nDFrhJEs7elbgmJ3Ho"
+}

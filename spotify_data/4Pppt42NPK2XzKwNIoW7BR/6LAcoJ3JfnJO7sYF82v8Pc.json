@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2AN1MY8Z13TZVRBRUd4L7w/clip_887800_935800.mp3",
+    "description": "Fr. Mike elaborates on the significance of the Baptism of Jesus in the Jordan River. He points out that the location of the Jordan River is particularly noteworthy because it's the same river that Joshua crossed over to lead the Israelites into the Promised Land, signifying that Jesus will bring about a new exodus. Additionally, it's the lowest spot on the planet, symbolizing Jesus' humility. Finally, Fr. Mike emphasizes that when we are baptized, we are adopted as beloved sons and daughters of God because what belongs to Jesus by his nature is given to us by God\u2019s grace. Today we read Luke 3-5 and Proverbs 25:27-28. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1688058,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6LAcoJ3JfnJO7sYF82v8Pc"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6LAcoJ3JfnJO7sYF82v8Pc",
+    "html_description": "<p>Fr. Mike elaborates on the significance of the Baptism of Jesus in the Jordan River. He points out that the location of the Jordan River is particularly noteworthy because it&#39;s the same river that Joshua crossed over to lead the Israelites into the Promised Land, signifying that Jesus will bring about a new exodus. Additionally, it&#39;s the lowest spot on the planet, symbolizing Jesus&#39; humility. Finally, Fr. Mike emphasizes that when we are baptized, we are adopted as beloved sons and daughters of God because what belongs to Jesus by his nature is given to us by God\u2019s grace. Today we read Luke 3-5 and Proverbs 25:27-28.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6LAcoJ3JfnJO7sYF82v8Pc",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 314: My Beloved Son (2023)",
+    "release_date": "2023-11-10",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6LAcoJ3JfnJO7sYF82v8Pc"
+}

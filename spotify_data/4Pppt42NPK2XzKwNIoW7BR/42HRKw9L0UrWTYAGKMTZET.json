@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0kGud6AzWwTcOVES53czMA/clip_1296200_1348400.mp3",
+    "description": "Fr. Mike draws our attention to the cultural division present in the early Church and the origin of the ordination to the diaconate. He also discusses Paul\u2019s frustration with those who didn\u2019t recognize Jesus as the Christ and offers consolation to those who experience this in the hearts and minds of those close to them, as Paul did. Today\u2019s readings are Acts 6, Romans 9-10, and Proverbs 27:10-12. If you have found this podcast to be helpful in your faith life and would like to help us continue bringing this Catholic media to as many people as possible, please consider making an ongoing financial gift at ascensionpress.com/support. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1367693,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/42HRKw9L0UrWTYAGKMTZET"
+    },
+    "href": "https://api.spotify.com/v1/episodes/42HRKw9L0UrWTYAGKMTZET",
+    "html_description": "<p>Fr. Mike draws our attention to the cultural division present in the early Church and the origin of the ordination to the diaconate. He also discusses Paul\u2019s frustration with those who didn\u2019t recognize Jesus as the Christ and offers consolation to those who experience this in the hearts and minds of those close to them, as Paul did. Today\u2019s readings are Acts 6, Romans 9-10, and Proverbs 27:10-12.</p><br/><p>If you have found this podcast to be helpful in your faith life and would like to help us continue bringing this Catholic media to as many people as possible, please consider making an ongoing financial gift at ascensionpress.com/support.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "42HRKw9L0UrWTYAGKMTZET",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 327: Origin of the Diaconate (2023)",
+    "release_date": "2023-11-23",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:42HRKw9L0UrWTYAGKMTZET"
+}

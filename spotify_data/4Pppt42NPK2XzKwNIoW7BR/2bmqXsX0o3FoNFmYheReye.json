@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0yxW0TXNqc2mCPxHnFp9Ox/clip_1155200_1215000.mp3",
+    "description": "Fr. Mike highlights the wisdom and faith of Judith, heroine of the Old Testament, and shows us how her prayer in not just a prayer of intercession, but also one of praise. The readings are Jeremiah 37-38, Judith 8-9, and Proverbs 17:5-8. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1771128,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2bmqXsX0o3FoNFmYheReye"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2bmqXsX0o3FoNFmYheReye",
+    "html_description": "<p>Fr. Mike highlights the wisdom and faith of Judith, heroine of the Old Testament, and shows us how her prayer in not just a prayer of intercession, but also one of praise. The readings are Jeremiah 37-38, Judith 8-9, and Proverbs 17:5-8.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2bmqXsX0o3FoNFmYheReye",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 249: Prayer of Judith (2022)",
+    "release_date": "2022-09-06",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2bmqXsX0o3FoNFmYheReye"
+}

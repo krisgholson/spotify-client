@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2hSLqCZ5MG5zXTAPeL47pD/clip_260200_316900.mp3",
+    "description": "Fr. Mike explains why God would give the Israelites such drastic consequences for their sin, and how it reveals his divine plan and infinite mercy. Today's readings are Numbers 15, Deuteronomy 13-14, and Psalm 96. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1372107,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/13OKHhvDqrxitlB16c7X15"
+    },
+    "href": "https://api.spotify.com/v1/episodes/13OKHhvDqrxitlB16c7X15",
+    "html_description": "<p>Fr. Mike explains why God would give the Israelites such drastic consequences for their sin, and how it reveals his divine plan and infinite mercy. Today&#39;s readings are Numbers 15, Deuteronomy 13-14, and Psalm 96.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "13OKHhvDqrxitlB16c7X15",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 64: Consequences of Sin (2023)",
+    "release_date": "2023-03-05",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:13OKHhvDqrxitlB16c7X15"
+}

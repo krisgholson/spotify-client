@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3VjzTyZhzS2mTGLsE4dydm/clip_1422200_1486000.mp3",
+    "description": "Fr. Mike provides us with a mental picture of the ark of the covenant and reminds that the small details of worship matter as we read Exodus 25-26, Leviticus 19, and Psalm 119:1-56 For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1738788,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6H65oIIxbnrZpQLBBIR4xw"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6H65oIIxbnrZpQLBBIR4xw",
+    "html_description": "<p>Fr. Mike provides us with a mental picture of the ark of the covenant and reminds that the small details of worship matter as we read Exodus 25-26, Leviticus 19, and Psalm 119:1-56</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6H65oIIxbnrZpQLBBIR4xw",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 43: The Ark of the Covenant (2022)",
+    "release_date": "2022-02-12",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6H65oIIxbnrZpQLBBIR4xw"
+}

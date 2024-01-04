@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3hTmR3eb8XlGHNi1DDVvA6/clip_1209200_1262600.mp3",
+    "description": "Fr. Mike discusses the story of Jeremiah and the Ark of the Covenant, offering insight on where it was hidden and how that affected the people of God. He also looks ahead to the rest of 2 Maccabees and poses a question for all of us: What will the people who love us remember about us? Today\u2019s readings are 2 Maccabees 2, Sirach 42-44, and Proverbs 24:8-9. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1347526,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0aEcEPdRCBgVf53gxatvwx"
+    },
+    "href": "https://api.spotify.com/v1/episodes/0aEcEPdRCBgVf53gxatvwx",
+    "html_description": "<p>Fr. Mike discusses the story of Jeremiah and the Ark of the Covenant, offering insight on where it was hidden and how that affected the people of God. He also looks ahead to the rest of 2 Maccabees and poses a question for all of us: What will the people who love us remember about us? Today\u2019s readings are 2 Maccabees 2, Sirach 42-44, and Proverbs 24:8-9.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "0aEcEPdRCBgVf53gxatvwx",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 299: Jeremiah Hides the Ark (2022)",
+    "release_date": "2022-10-26",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:0aEcEPdRCBgVf53gxatvwx"
+}

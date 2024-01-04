@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7MFCcaBlvdMB70RMZ00BjP/clip_493900_549300.mp3",
+    "description": "As we continue through this year-long journey Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you're at in scripture. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 921051,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/66CslmGhucjcU5ssOr2yf2"
+    },
+    "href": "https://api.spotify.com/v1/episodes/66CslmGhucjcU5ssOr2yf2",
+    "html_description": "<p>As we continue through this year-long journey Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you&#39;re listening consistently or if you&#39;re &#34;behind&#34;, the Lord will meet you where you&#39;re at in scripture.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "66CslmGhucjcU5ssOr2yf2",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2022",
+    "release_date": "2022-09-24",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:66CslmGhucjcU5ssOr2yf2"
+}

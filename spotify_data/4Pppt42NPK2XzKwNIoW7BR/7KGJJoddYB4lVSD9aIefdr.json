@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4GPaxKdC2w7gp5196Sx6LK/clip_812400_876300.mp3",
+    "description": "Fr. Mike preaches hope for the future of those with wounded hearts as we read the stories of Tamar, Amnon, and David. No matter what's in your past - things you've done or things that have been done to you - there is abundant hope for your future because God desires to make you whole. Today's readings are 2 Samuel 13, 1 Chronicles 17, and Psalm 35. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1461028,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7KGJJoddYB4lVSD9aIefdr"
+    },
+    "href": "https://api.spotify.com/v1/episodes/7KGJJoddYB4lVSD9aIefdr",
+    "html_description": "<p>Fr. Mike preaches hope for the future of those with wounded hearts as we read the stories of Tamar, Amnon, and David. No matter what&#39;s in your past - things you&#39;ve done or things that have been done to you - there is abundant hope for your future because God desires to make you whole. Today&#39;s readings are 2 Samuel 13, 1 Chronicles 17, and Psalm 35.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "7KGJJoddYB4lVSD9aIefdr",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 131: Hope for the Future (2023)",
+    "release_date": "2023-05-11",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:7KGJJoddYB4lVSD9aIefdr"
+}

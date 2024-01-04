@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5OvuxAm9PCK9Oknx9M4Oqn/clip_223900_278200.mp3",
+    "description": "Fr. Mike reflects on the powerful reality that the sacrament of Baptism makes us partakers of God's Divine nature, fundamentally changing us into beloved sons and daughters of God the Father. He also highlights how the second coming of Christ will come like a thief in the night, how Christians grieve with hope, and how we have to test the prophecies we hear from seers.  Today's readings are 2 Peter 1-3, 1 Thessalonians 4-5, and Proverbs 30:17-19. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1323781,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2CCeNfy9eyCUMqWrao24nZ"
+    },
+    "href": "https://api.spotify.com/v1/episodes/2CCeNfy9eyCUMqWrao24nZ",
+    "html_description": "<p>Fr. Mike reflects on the powerful reality that the sacrament of Baptism makes us partakers of God&#39;s Divine nature, fundamentally changing us into beloved sons and daughters of God the Father. He also highlights how the second coming of Christ will come like a thief in the night, how Christians grieve with hope, and how we have to test the prophecies we hear from seers.  Today&#39;s readings are 2 Peter 1-3, 1 Thessalonians 4-5, and Proverbs 30:17-19.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "2CCeNfy9eyCUMqWrao24nZ",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 354: Partakers of the Divine Nature (2022)",
+    "release_date": "2022-12-20",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:2CCeNfy9eyCUMqWrao24nZ"
+}

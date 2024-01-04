@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4wG8Tay47huuZb5GDOBiKu/clip_778400_827400.mp3",
+    "description": "Fr. Mike recaps Paul's trial before the chief priests and the plot to kill him in Acts 23. As we conclude 2 Corinthians today, Fr. Mike reflects on the thorn in Paul's side, a weakness that he struggled with and begged God to take away. Fr. Mike invites us to reflect on our own thorn that God doesn't seem to take away, and to remember that God's grace is sufficient for us. Today's readings are Acts 23, 2 Corinthians 12-13, and Proverbs 29:8-11. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1117152,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4Slif8sJ55tdhTwLuw8O0s"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4Slif8sJ55tdhTwLuw8O0s",
+    "html_description": "<p>Fr. Mike recaps Paul&#39;s trial before the chief priests and the plot to kill him in Acts 23. As we conclude 2 Corinthians today, Fr. Mike reflects on the thorn in Paul&#39;s side, a weakness that he struggled with and begged God to take away. Fr. Mike invites us to reflect on our own thorn that God doesn&#39;t seem to take away, and to remember that God&#39;s grace is sufficient for us. Today&#39;s readings are Acts 23, 2 Corinthians 12-13, and Proverbs 29:8-11.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4Slif8sJ55tdhTwLuw8O0s",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 344: The Thorn in Paul's Side (2022)",
+    "release_date": "2022-12-10",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4Slif8sJ55tdhTwLuw8O0s"
+}

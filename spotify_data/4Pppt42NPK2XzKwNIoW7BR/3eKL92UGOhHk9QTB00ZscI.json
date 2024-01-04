@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4ON81m6KURq8PpmpBJjxUu/clip_1071200_1117000.mp3",
+    "description": "Fr. Mike reflects on Jeremiah\u2019s sorrow for the people of Israel while reminding us that the one thing we ought to find glory in,  is in understanding and knowing God. In our reading of Ezekiel, we hear about God's ongoing promise to restore Israel. Today\u2019s readings are Jeremiah 9, Ezekiel 39, and Proverbs 15:1-4. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1236793,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3eKL92UGOhHk9QTB00ZscI"
+    },
+    "href": "https://api.spotify.com/v1/episodes/3eKL92UGOhHk9QTB00ZscI",
+    "html_description": "<p>Fr. Mike reflects on Jeremiah\u2019s sorrow for the people of Israel while reminding us that the one thing we ought to find glory in,  is in understanding and knowing God. In our reading of Ezekiel, we hear about God&#39;s ongoing promise to restore Israel. Today\u2019s readings are Jeremiah 9, Ezekiel 39, and Proverbs 15:1-4.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "3eKL92UGOhHk9QTB00ZscI",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 232: Glory in Knowing God (2022)",
+    "release_date": "2022-08-20",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:3eKL92UGOhHk9QTB00ZscI"
+}

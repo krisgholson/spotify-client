@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3t8gOheIUfUk2e75comBl4/clip_224700_292300.mp3",
+    "description": "To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy  Luke 14: 1, 7-14 - 'Everyone who exalts himself shall be humbled.'  Catechism of the Catholic Church Paragraphs: - 575 (in 'Jesus and Israel') - To be sure, Christ's relations with the Pharisees were not exclusively polemical. Some Pharisees warn him of the danger he was courting; Jesus praises some of them, like the scribe of Mark 12:34, and dines several times at their homes (abbreviated).  Got a Bible question? Send an email to logicalbiblestudy@gmail.com, and it will be answered in an upcoming episode!  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "duration_ms": 1366285,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4CsHZtH9pmNP9JCGrvqcTX"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4CsHZtH9pmNP9JCGrvqcTX",
+    "html_description": "<p>To support the\u00a0ministry and get access to exclusive content, go to: http://patreon.com/logicalbiblestudy</p><br/><p><br /></p><br/><p>Luke 14: 1, 7-14 - &#39;Everyone who exalts himself shall be humbled.&#39;</p><br/><p><br /></p><br/><p>Catechism of the Catholic Church Paragraphs:</p><br/><p>- 575 (in &#39;Jesus and Israel&#39;) - To be sure, Christ&#39;s relations with the Pharisees were not exclusively polemical. Some Pharisees warn him of the danger he was courting; Jesus praises some of them, like the scribe of Mark 12:34, and dines several times at their homes (abbreviated).</p><br/><p><br /></p><br/><p>Got a Bible question? Send an email to logicalbiblestudy&#64;gmail.com, and it will be answered in an upcoming episode!</p><br/>--- <br/>Send in a voice message: https://podcasters.spotify.com/pod/show/daily-gospel-exegesis/message",
+    "id": "4CsHZtH9pmNP9JCGrvqcTX",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa10898a57fb4740a3aa6ef3f",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fa10898a57fb4740a3aa6ef3f",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68da10898a57fb4740a3aa6ef3f",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en",
+    "languages": [
+        "en"
+    ],
+    "name": "22nd Sunday in Ordinary Time (Year C) - Luke 14: 1, 7-14",
+    "release_date": "2022-08-27",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4CsHZtH9pmNP9JCGrvqcTX"
+}

@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4fy5f5ZRA21gRqrTiz7p5n/clip_804900_859600.mp3",
+    "description": "Today, we hear about the downfall of Absalom, and how David reacts to the news of his death. In Chronicles, we read about David changing some of the rules of worship, as he prepares for Temple worship. The readings are 2 Samuel 18, 1 Chronicles 23, and Psalm 37. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1338044,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6O0mzCDttT7Yljf0Pn1I9k"
+    },
+    "href": "https://api.spotify.com/v1/episodes/6O0mzCDttT7Yljf0Pn1I9k",
+    "html_description": "<p>Today, we hear about the downfall of Absalom, and how David reacts to the news of his death. In Chronicles, we read about David changing some of the rules of worship, as he prepares for Temple worship. The readings are 2 Samuel 18, 1 Chronicles 23, and Psalm 37.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "6O0mzCDttT7Yljf0Pn1I9k",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 136: Absalom Is Defeated (2023)",
+    "release_date": "2023-05-16",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:6O0mzCDttT7Yljf0Pn1I9k"
+}

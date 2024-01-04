@@ -1,0 +1,44 @@
+{
+    "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0vGfulRCyXysagoocohAuR/clip_730900_788900.mp3",
+    "description": "Today we read about the descendants of Noah, and the story of the Tower of Babel from Genesis 10-11, as well as Psalm 2. Fr. Mike reveals the errors of these characters, and how we also can fall into the same traps. For the complete reading plan, visit ascensionpress.com/bibleinayear. Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.",
+    "duration_ms": 1039464,
+    "explicit": false,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4iPCSUdfTNuJOtRK6l4nAH"
+    },
+    "href": "https://api.spotify.com/v1/episodes/4iPCSUdfTNuJOtRK6l4nAH",
+    "html_description": "<p>Today we read about the descendants of Noah, and the story of the Tower of Babel from Genesis 10-11, as well as Psalm 2. Fr. Mike reveals the errors of these characters, and how we also can fall into the same traps.</p><br/><p>For the complete reading plan, visit ascensionpress.com/bibleinayear.</p><br/><p>Please note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.</p><p><a href=\"https://ascensionpress.com/products/support-ascension\" rel=\"nofollow\">Support The Bible in a Year (with Fr. Mike Schmitz)</a></p>",
+    "id": "4iPCSUdfTNuJOtRK6l4nAH",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9746faeb889192f74490be6c",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9746faeb889192f74490be6c",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9746faeb889192f74490be6c",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "is_playable": true,
+    "language": "en-US",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Day 5: Tower of Babel (2022)",
+    "release_date": "2022-01-05",
+    "release_date_precision": "day",
+    "resume_point": {
+        "fully_played": false,
+        "resume_position_ms": 0
+    },
+    "type": "episode",
+    "uri": "spotify:episode:4iPCSUdfTNuJOtRK6l4nAH"
+}
