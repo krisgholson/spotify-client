@@ -51,9 +51,9 @@ def download_all_episode_metadata(show_id):
         with open(f"{show_dir}/{id}.json", "w") as f:
             json.dump(e, f, indent=4)
 
-def episode_report(show_id):
+def daily_gospel_exegesis_matthew():
     
-    show_dir = f"{DATA_DIR}/{show_id}"
+    show_dir = f"{DATA_DIR}/{DAILY_GOSPEL_EXEGESIS}"
     json_pattern = os.path.join(show_dir, "*.json")
     file_list = glob.glob(json_pattern)
 
@@ -65,14 +65,15 @@ def episode_report(show_id):
             episodes.append(json.load(f))
 
     df = pd.json_normalize(episodes)
-    df = df.sort_values(by="release_date")
-    print(df.release_date.to_string(index=False))
+    df = df[["Matt" in x for x in df["name"]]]
+    df = df.sort_values(by="name")
+    print(df.name.to_string(index=False))
 
 
 
 def main():
     # download_all_episode_metadata(DAILY_GOSPEL_EXEGESIS)
-    episode_report(BIBLE_IN_A_YEAR)
+    daily_gospel_exegesis_matthew()
 
 if __name__ == '__main__':
     main()
