@@ -51,6 +51,42 @@ def download_all_episode_metadata(show_id):
         with open(f"{show_dir}/{id}.json", "w") as f:
             json.dump(e, f, indent=4)
 
+def daily_gospel_exegesis_matthew_to_csv():    
+    df = daily_gospel_exegesis_matthew()
+    df.to_csv("daily_gospel_exegesis.csv") 
+
+def daily_gospel_exegesis_matthew_to_md():
+    df = daily_gospel_exegesis_matthew()   
+    with open('daily_gospel_exegesis.md', 'a') as f:
+        for index, row in df.iterrows():
+            f.write(f"* [{row['book_chapter_verse']}]({row['external_urls.spotify']})\n")           
+
+def bible_in_a_year_matthew():
+    
+    show_dir = f"{DATA_DIR}/{BIBLE_IN_A_YEAR}"
+    json_pattern = os.path.join(show_dir, "*.json")
+    file_list = glob.glob(json_pattern)
+
+    print(len(file_list))
+
+    episodes = []
+    for file in file_list:
+        with open(file, "r") as f:
+            episodes.append(json.load(f))
+
+    df = pd.json_normalize(episodes)
+    # df["book_chapter_verse"] = df["name"].apply(daily_gospel_exegesis_book_chapter_verse_from_name)
+    # df["book"] = df["book_chapter_verse"].apply(daily_gospel_exegesis_book_from_book_chapter_verse)
+    # df["chapter"] = df["book_chapter_verse"].apply(daily_gospel_exegesis_chapter_from_book_chapter_verse)
+    # df = df[["Matt" in x for x in df["book"]]]
+    # df = df.sort_values(by=["book", "chapter"])
+            
+    # view the updated DataFrame
+    print(df.shape[0])
+    print(df.columns)
+    # print(df[["book", "chapter"]].head(10)) 
+    return df
+
 def daily_gospel_exegesis_matthew():
     
     show_dir = f"{DATA_DIR}/{DAILY_GOSPEL_EXEGESIS}"
@@ -74,7 +110,7 @@ def daily_gospel_exegesis_matthew():
     # view the updated DataFrame
     print(df.shape[0])
     print(df[["book", "chapter"]].head(10)) 
-    df.to_csv("daily_gospel_exegesis.csv")    
+    return df
 
 def daily_gospel_exegesis_book_from_book_chapter_verse(book_chapter_verse):
     if ":" not in book_chapter_verse:
@@ -106,7 +142,8 @@ def daily_gospel_exegesis_book_chapter_verse_from_name(name):
 
 def main():
     # download_all_episode_metadata(DAILY_GOSPEL_EXEGESIS)
-    daily_gospel_exegesis_matthew()
+    daily_gospel_exegesis_matthew_to_md()
+    # bible_in_a_year_matthew()
 
 if __name__ == '__main__':
     main()
