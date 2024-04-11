@@ -18,7 +18,7 @@ Book One: John the Baptist and the Early Ministry of Jesus, Discourse: Sermon on
 1. (5:9) "Peacemakers". Who are peacemakers? [Jas 3:18](https://www.biblegateway.com/passage/?search=Jas%203%3A18&version=RSVCE), [Heb 12:14](https://www.biblegateway.com/passage/?search=Heb%2012%3A14&version=RSVCE), [Rom 5:1](https://www.biblegateway.com/passage/?search=Rom%205%3A1&version=RSVCE), [Phil 4:7](https://www.biblegateway.com/passage/?search=Phil%204%3A7&version=RSVCE) What does it mean to be sons of God? [Rom 8:14-16](https://www.biblegateway.com/passage/?search=Rom%208%3A14-16&version=RSVCE), [1 Jn 3:1](https://www.biblegateway.com/passage/?search=1%20Jn%203%3A1&version=RSVCE), [Rom 8:23](https://www.biblegateway.com/passage/?search=Rom%208%3A23&version=RSVCE), [Rev 21:7](https://www.biblegateway.com/passage/?search=Rev%2021%3A7&version=RSVCE)
 1. (5:10) "Persecuted for righteousness' sake". Why are we persecuted for righteousness' sake? [Jn 15:18](https://www.biblegateway.com/passage/?search=Jn%2015%3A18&version=RSVCE) Why should we rejoice because of that persecution? [1 Pet 3:14](https://www.biblegateway.com/passage/?search=1%20Pet%203%3A14&version=RSVCE)
 
-###  Questions (Salt and Light, Fulfillment of Law & Prophets, Anger, Adultery, Divorce)
+###  Questions (Remainder of Chapter 5)
 
 1. (13-16) Salt and light. How were salt and light used in the OT to define Israel's relationship with God and God's purpose for them in the world? [Num 18:19](https://www.biblegateway.com/passage/?search=Num%2018%3A19&version=RSVCE), [2 Chron 13:5](https://www.biblegateway.com/passage/?search=2%20Chron%2013%3A5&version=RSVCE), [Is 42:6](https://www.biblegateway.com/passage/?search=Is%2042%3A6&version=RSVCE), [Is 49:6](https://www.biblegateway.com/passage/?search=Is%2049%3A6&version=RSVCE) What is a "convenant of salt"?
 1. (16) Note: this is the first time in Matthew that he mentions God's Fatherhood. He will go on to call God "Father" 17 times in the Sermon on the Mount. 
@@ -29,6 +29,11 @@ Book One: John the Baptist and the Early Ministry of Jesus, Discourse: Sermon on
 1. (21-22) Jesus begins to deepen the meaning of the OT Law starting with murder. In 22, it sounds like there are degrees of personal guilt based on conduct (anger->judgment <  insult->council < vicious insult->hell). Are all sins equal? [1 John 5:17](https://www.biblegateway.com/passage/?search=1%20John%205%3A17&version=RSVCE)
 1. (27-30) Even looking and thinking "lustfully" counts as breaking the New Law. Jesus gives us some hyperbolic remedies to avoid these occasions of sin, the sins themselves, and the eternal punishment they lead to. [Matt 18:7-9](https://www.biblegateway.com/passage/?search=Matt%2018%3A7-9&version=RSVCE) How is this hyperbole necessary to underscore the severity of sexual sins?
 1. (31-32) Does Jesus permit divorce?
+1. (33-37) Why did Jesus specifically mention things such as heaven, earth, Jerusalem, or your own head when prohibiting swearing oaths? [Matt 23:16-22](https://www.biblegateway.com/passage/?search=Matt%2023%3A16-22&version=RSVCE), [Matt 14:6-7](https://www.biblegateway.com/passage/?search=Matt%2014%3A6-7&version=RSVCE), [Matt 26:72-74](https://www.biblegateway.com/passage/?search=Matt%2026%3A72-74&version=RSVCE), [Matt 27:24-26](https://www.biblegateway.com/passage/?search=Matt%2027%3A24-26&version=RSVCE) Given that God made oaths in the OT ([Gen 22:16-17](https://www.biblegateway.com/passage/?search=Gen%2022%3A16-17&version=RSVCE)), Jesus once spoke under oath ([Matt 26:63-64](https://www.biblegateway.com/passage/?search=Matt%2026%3A63-64&version=RSVCE)), Paul put himself under oath ([Rom 1:9](https://www.biblegateway.com/passage/?search=Rom%201%3A9&version=RSVCE), [2 Cor 1:23](https://www.biblegateway.com/passage/?search=2%20Cor%201%3A23&version=RSVCE)), does Jesus forbid us from taking oaths for things such as courtroom testimony, military service, and in other public forums? Why or why not?
+1. (38-42) What was the original meaning of "eye for eye, tooth for tooth, etc." [Ex 21:22-25](https://www.biblegateway.com/passage/?search=Ex%2021%3A22-25&version=RSVCE)?  Is the purpose of justice to satisfy personal vengeance of the wronged or to make sure that the punishment fits the crime?
+1. (43-47) Did the OT tell us to "hate" our enemies? Maybe this .. [Lev 19:18](https://www.biblegateway.com/passage/?search=Lev%2019%3A18&version=RSVCE)? Why does Jesus now tell us to pray for our enemies rather than giving us guidance to utterly destroy them ([Dt 20:16-18](https://www.biblegateway.com/passage/?search=Dt%2020%3A16-18&version=RSVCE))? Who is our neighbor? [Lk 10:29-37](https://www.biblegateway.com/passage/?search=Lk%2010%3A29-37&version=RSVCE)
+2. (48) Be perfect, as your Heavenly Father is perfect. Compare and contrast 48 and [Lk 6:36](https://www.biblegateway.com/passage/?search=Lk%206%3A36&version=RSVCE) to [Lv 19:2](https://www.biblegateway.com/passage/?search=Lv%2019%3A2&version=RSVCE).
+
 
 
 ### Primary Resources
@@ -41,6 +46,8 @@ Book One: John the Baptist and the Early Ministry of Jesus, Discourse: Sermon on
 ### Secondary Resources
 * [Jesus on Marriage and Divorce, from the Ignatius Catholic Study Bible](https://drive.google.com/file/d/1ljpZGcovpOgrBDxiDhsZtNoG-CJGtmud/view?usp=sharing)
 * [On the Sermon on the Mount, Book I - St. Augustine, AD 393](https://www.newadvent.org/fathers/16011.htm) (especially Chapter 1)
+* [When It's Okay for Christians to Swear](https://www.catholic.com/magazine/online-edition/when-its-okay-for-christians-to-swear)
+* [Did Jesus Forbid Us from Taking Oaths?](https://www.crossway.org/articles/did-jesus-forbid-us-from-taking-oaths-matthew-5/)
 
 #### Logical Daily Gospel Exegesis (Hayden)
 
