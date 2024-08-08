@@ -19,7 +19,7 @@ Book Four: Jesus Instructs Peter and the Twelve, Narrative: Various Travels and 
 6. (20) The meal was superabundant; there were 12 baskets left over (more food than they started with). Why the number 12? Keep the combination "5000 men with 12 baskets leftover" in mind when we reach the later feeding of the 4000 ("4000 men with 7 baskets left over").
 7. (22-33) It is not the storm that first frightens the disciples but the sight of Jesus walking toward them. How does Jesus respond to their fear? (Note: "It is I" is literally "I am" or "Yahweh"—the name God revealed to Moses at the burning bush and Israel’s covenant name for God.)
 8. (30) When Peter realizes it is Jesus, his immediate response is to ask Jesus to permit him to walk on the water. What causes Peter to doubt after his initial success?
-9. (33) What significant confession do the disciples make after this event, and how does it contrast with their reaction the first time they saw Jesus’ power over a storm? (For help with this question, see [Matt 8:23-27](https://www.biblegateway.com/passage/?search=Matt%208%3A23-27&version=RSVCE).)
+9. (33) What significant confession do the disciples make after this event, and how does it contrast with their reaction the first time they saw Jesus' power over a storm? (For help with this question, see [Matt 8:23-27](https://www.biblegateway.com/passage/?search=Matt%208%3A23-27&version=RSVCE).)
 
 ### Primary Resources
 
