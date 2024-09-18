@@ -5,7 +5,7 @@
 Book Four: Jesus Instructs Peter and the Twelve, Narrative: Various Travels and Miracles of Jesus
 
 ### Questions 
-#### (from Jeff Cavin led Bible study on the Book of Matthew "The King and His Kingdom")
+#### (Questions 1-14 from Jeff Cavin led Bible study on the Book of Matthew "The King and His Kingdom")
 1. (1) The Pharisees and Sadducees come to test Jesus. In what way does their question reflect Satan’s first temptation of Jesus in the desert in Matthew 4:3 ([Matt 4:1-4](https://www.biblegateway.com/passage/?search=Matt%204%3A1-4&version=RSVCE))?
 2. (3) What "signs of the times" do you think Jesus is accusing the Pharisees and Sadducees of being unable to interpret? 
 3. (4) What kind of sign does Jesus offer them? Explain it. (Optional: Read the book of Jonah, which contains just four short chapters.) ([Jonah 1-4](https://www.biblegateway.com/passage/?search=Jonah%201-4&version=RSVCE))
@@ -19,7 +19,13 @@ Book Four: Jesus Instructs Peter and the Twelve, Narrative: Various Travels and 
 11. (21) This verse marks a turning point in Matthew’s Gospel. God has revealed Jesus' identity to Peter and made him the foundation stone of the Church. “From that time,” Jesus begins to tell his disciples what the establishment of this new kingdom will require. Why are Jesus' words so hard for Peter to take?
 12. (23) Why does Jesus reply with such force? (Do you see any parallel between Peter's remark and the words of the Serpent in [Genesis 3](https://www.biblegateway.com/passage/?search=Genesis%203%3A1-4&version=RSVCE) or of Satan in [Matthew 4](https://www.biblegateway.com/passage/?search=Matthew%204%3A8-10&version=RSVCE) when he tempts Jesus in the desert?)
 13. (13-23) How should we see Peter's error in light of the special revelation he has just received and the fact that he will be the foundation of the Church?
-14. (24-28) It is not only Jesus who will suffer. What does Jesus say will be required of anyone who follows him? (Read also [Romans 8:15-18](https://www.biblegateway.com/passage/?search=Romans%208%3A15-18&version=RSVCE); [John 12:24](https://www.biblegateway.com/passage/?search=John%2012%3A24&version=RSVCE).)    How can we do this today?
+14. (24-28) It is not only Jesus who will suffer. What does Jesus say will be required of anyone who follows him? (Read also [Romans 8:15-18](https://www.biblegateway.com/passage/?search=Romans%208%3A15-18&version=RSVCE); [John 12:24](https://www.biblegateway.com/passage/?search=John%2012%3A24&version=RSVCE).) How can we do this today?
+15. (26) This verse echos the following verse from Psalm 49 ... [Ps 49:7-9](https://www.biblegateway.com/passage/?search=Ps%2049%3A7-9&version=RSVCE)
+16. (27-28) What event(s) is/are Jesus referring to when he says that some standing there will not taste death before they see the Son of man coming in his kingdom? According to [Hayden](https://open.spotify.com/episode/5Zf2FepW8js67WPbXDM4jk?si=_j43u5hqQWGU2RLoXm8Yxw) (near the end of the podcast) scholars are divided on when this is. He puts forward 4 possibilities (all of which have potential interpretation problems - you will have to listen to it yourself - I cannot do it justice and it hurts my head):  
+    * Jesus' "Middle Coming" in the destruction of the Jerusalem temple in 70 AD.  
+    * the Transfiguration  
+    * the general events of the resurrection, ascension, and expansion of the church, which would take place in the coming years
+    * the coming of "glory of his Father" (verse 27) is the end of time judgement and is a different event than the gradual coming of the Kingdom of God that began with Jesus and will take many centuries (verse 28)
 
 ### Primary Resources
 
