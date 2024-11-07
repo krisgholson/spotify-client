@@ -5,7 +5,7 @@
 Book Four: Jesus Instructs Peter and the Twelve, Discourse: Sermon on Life in the Church
 
 ### Questions 
-1. What audience is Jesus addressing when he gives the sermon in 
+1. What audience is Jesus addressing when he gives the sermon in Chapter 18?
 2. (1) Why might the disciples be asking "who is the greatest in the kingdom of heaven"? [Matt 16:17-19](https://www.biblegateway.com/passage/?search=Matt%2016%3A17-19&version=RSVCE), [Matt 17:1](https://www.biblegateway.com/passage/?search=Matt%2017%3A1&version=RSVCE), [Matt 17:27](https://www.biblegateway.com/passage/?search=Matt%2017%3A27&version=RSVCE) 
 2. (2-4) Jesus responds to the disciples' question, by using the example of a child. What elements of being childlike are important for leaders in the kingdom of heaven?  How does this also apply to ALL those seeking salvation? [Matt 6:25-33](https://www.biblegateway.com/passage/?search=Matt%206%3A25-33&version=RSVCE), [Jn 1:12-13](https://www.biblegateway.com/passage/?search=Jn%201%3A12-13&version=RSVCE)
 3. (3-4) Compare the promises made in verses 3 and 4. Verse 3 sounds like turning and becoming like a child is the **minimum** requirement to enter heaven. Verse 4 says that whoever humbles himself like this child is the **greatest** in the kingdom of heaven. How do you resolve these meanings?
